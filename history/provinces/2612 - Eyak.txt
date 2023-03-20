@@ -1,0 +1,30 @@
+# No previous file for E
+
+culture = haida
+religion = em
+capital = "E"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = north_aican
+
+1741.1.1 = { discovered_by = RUS } # Vitus Bng
+1778.1.1 = { discovered_by = GBR } # James k
+
+1793.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	is_city = yes
+	culture = russian
+	religion = orthodox
+	trade_goods = fur
+}

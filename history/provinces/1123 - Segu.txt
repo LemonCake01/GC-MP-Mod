@@ -1,0 +1,40 @@
+#1123 - Segu
+
+owner = 
+controller = 
+culture = bara
+is_city = yes
+base_manpower = 2
+religion = shamanism #Fetishism
+capital = "Kirina"
+trade_goods = grain
+hre = no
+base_tax = 5 
+base_production = 5
+native_ferocity = 4
+native_hostiess = 9
+add_core = 
+add_core = SOF
+
+
+
+discovered_by = sub_saharan
+
+
+1460.1.1 = { unrest = 3 } # ghai raids devate region
+1503.1.1 = { owner =  controller =  add_core =  unrest = 5 } # iya Muhad of ghai seizes control of Diara
+1511.1.1 = { unrest = 9 } # Fulani incurns under Tengella empt to seize control of the province 
+1512.1.1 = { unrest = 0 } # Defeat and eliminan of Tengella ends Fulani incurns
+1586.1.1 = { revolt = { type = revolunary_rebels size = 1 } controller = REB } # Ci  between Al-Sadduk and Ishak
+1588.1.1 = { revolt = {} controller =  unrest = 6 } # Ishak reconquers lands in revolt, uneasy on thr
+1591.3.15 = { owner = ZAF controller = ZAF } #ghai collapse af dibi
+1600.1.1 = { remove_core = ZAF discovered_by = MOR } # Collapse of i te
+1620.1.1 = { revolt = {} owner = SOF controller = SOF add_core = SOF capital = "Segu" } # rise of Bara te 
+1642.1.1 = { remove_core =  } # Collapse of last vestiges of unity among ghai
+1685.1.1 = { unrest = 6 } # Political uphels af death of adian Kulibali
+1751.1.1 = { unrest = 7 } # Revolt of the s branch of Kulibali n sps ci 
+1752.1.1 = { unrest = 0 } # Mli adian defeats s revolt, expels them from Segu
+1756.1.1 = { unrest = 9 } # Dero seizes er in wake of father Mli's death, ci 
+1766.1.1 = { unrest = 0 } # Ngolo Diarra restores authortiy of Segu te, ends ci 
+1791.1.1 = { unrest = 6 } # Struggle for er in wake of death of Ngolo Diarra
+1792.1.1 = { unrest = 0 } # Mon Diarra restores order af inregnum

@@ -1,0 +1,51 @@
+#2042 - h Hajo
+
+owner = 
+controller = 
+culture = amese
+religion = huism
+capital = "Gauhauti"
+trade_goods = con
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = 
+
+
+
+discovered_by = ian
+discovered_by = no_group
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = nese
+
+
+1502.1.1 = { controller =  }
+1502.6.1 = { owner =  } #Conquered by gal
+1518.1.1 = {
+	controller = 
+	owner = 
+}	#h dynasty
+
+1584.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+} # h Hajo edent but seeks support of am
+1612.1.1 = { controller = MUG } #Mughals
+1614.1.1 = { owner = MUG add_core = MUG } #Mughals
+1622.10.1 = { controller = REB revolt = { type = pretender_rebels size = 0 name = "Khurrams Facn" leader = "Shah Jahan Timurid" } } #With some aid from Golconda Khurrams rebelion against his father contin
+1624.1.1 = { controller = MUG revolt = { } } #Khurram is defeated and is sed away by Mughal forces and rebelious Zamars. es refuge in Ahmednagar and evenlly surrenders on ms dictated by Nur Jahan
+1627.1.1 = { discovered_by = POR }
+1682.1.1 = {
+	owner = 
+	controller = 
+} # Reen by am
+1765.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = MUG
+} # Ble of Pley, British rule

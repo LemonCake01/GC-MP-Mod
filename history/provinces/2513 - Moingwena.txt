@@ -1,0 +1,36 @@
+# No previous file for Moinga
+
+culture = illini
+religion = em
+capital = "Moinga"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+tribal_owner = 
+
+
+discovered_by = north_aican
+
+
+1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La le
+1680.6.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	is_city = yes
+	trade_goods = grain
+} #Westd move during the Beavers s
+1808.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	trade_goods = grain
+	religion = protent
+	culture = aican 
+} #Fort i
+

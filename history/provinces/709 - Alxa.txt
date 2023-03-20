@@ -1,0 +1,35 @@
+#709 - A
+
+owner = 
+controller = 
+add_core = 
+culture = mongol
+religion = vajrayana
+capital = "A"
+trade_goods = gems #Manao Jade
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+discovered_by = nese
+discovered_by = no_group
+
+1510.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+} # The ads are defeated & Mongolia is reunited under Dayan n
+1635.4.1 = {
+	owner = MCH
+	controller = MCH
+	add_core = MCH
+	remove_core = 
+} # The La Jin nate
+1636.5.15 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+	remove_core = MCH
+} # The Qing Dynasty
+1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest

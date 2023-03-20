@@ -1,0 +1,33 @@
+#1047 - Jugjur
+
+culture = ut
+religion = tengri_pagan_reformed
+capital = "Jugjur"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostiess = 3
+
+
+
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = no_group
+
+1643.1.1 = { discovered_by = RUS } # Vly Poyov
+
+1647.1.1 = {
+	owner = RUS
+	controller = RUS
+	is_city = yes
+	religion = orthodox
+	culture = russian
+	trade_goods = nl_supplies
+}
+1668.1.1 = { add_core = RUS }

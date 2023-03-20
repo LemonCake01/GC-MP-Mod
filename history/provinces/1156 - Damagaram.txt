@@ -1,0 +1,21 @@
+#1156 - Dgaram
+
+owner = 
+controller = 
+add_core = 
+culture = tuareg
+religion = sunni
+capital = "hina"
+is_city = yes
+base_manpower = 1
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+discovered_by = sub_saharan
+
+1444.1.1 = { add_core =  }
+1590.1.1 = { owner =  controller =  }
+1736.1.1 = { capital = "Zer" } #shift of political cen as a result of lam migrans
+1760.1.1 = { unrest = 7 } #reg raids in wake of fall of Agades
+1804.1.1 = { discovered_by = SOK }

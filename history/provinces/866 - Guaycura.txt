@@ -1,0 +1,53 @@
+#866 - ycura
+
+culture = an
+religion = anim 
+capital = "ycura" 
+trade_goods = unwn 
+hre = no 
+base_tax = 1 
+base_production = 1 
+base_manpower = 1 
+native_size = 5 
+native_ferocity = 1 
+native_hostiess = 2 
+
+
+
+discovered_by = north_aican
+
+1533.1.1 = { discovered_by = SPA }
+
+1535.5.3 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	capital = "La Paz"
+	culture = castillian
+	religion = catholic
+	is_city = yes
+	trade_goods = fish 
+} # Hernán Cortés imed the insula & founded the city
+1540.1.1 = {
+	owner = ---
+	controller = ---
+	capital = "ycura"
+	is_city = no
+	culture = an
+	religion = anim
+	remove_core = SPA
+} #Sish settlement abaned
+1578.1.1 = { discovered_by = ENG } # Drake 
+1697.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	capital = "Lor"
+	is_city = yes
+	trade_goods = fish 
+	culture = castillian
+	religion = catholic
+} #First Sish n on the insula, Lor
+1768.2.3 = { unrest = 4 } # The Jesuits are expelled 
+1769.1.1 = { unrest = 0 } 
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican  of edence

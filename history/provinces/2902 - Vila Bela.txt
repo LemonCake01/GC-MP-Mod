@@ -1,0 +1,25 @@
+# - a Bela
+
+culture = rani
+discovered_by = south_aican
+religion = anim
+capital = "a Bela"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1 
+native_hostiess = 1
+
+1752.3.19 = {
+	discovered_by = POR
+	add_core = POR
+	owner = POR
+	controller = POR
+	culture = portugese
+	religion = catholic
+	trade_goods = copper
+	is_city = yes
+}

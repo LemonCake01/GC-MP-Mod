@@ -1,0 +1,41 @@
+#217 - rid
+
+owner = CAS		#Juan II of Castille
+controller = CAS
+add_core = CAS
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth 
+base_manpower = 5
+capital = "rid" 
+is_city = yes # Includes the populan of Alcalá de Henares and dalaa, that at times were bigger than rid itself
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1516.1.23 = {
+	controller = SPA
+	owner = SPA
+	add_core = SPA
+} # King Ferna dies, Carlos inhts Aragon and becames co-regent of Castille
+1520.6.1 = { revolt = { type = revolunary_rebels size = 1 } controller = REB } # The revolt of the uneros, rted in Toledo, reas rid, new fortificans are built to defend the city but ultiely the royalists are defeated.
+1521.4.1 = { revolt = {} controller = SPA } # The uneros are defeated
+1699.1.1 = { unrest = 3 } # Restlessness due to prolonged famines
+1700.1.1 = { unrest = 0 } # The King is forced to adopt measures to appease the populan, a new corregidor is elected
+1706.6.25 = { controller = ENG } # Anglo-portuge troops e the city in the name of Aruke Carlos of Austria
+1706.8.4 = { controller = SPA } # Troops loyal to Fee V recover the city
+1710.9.27 = { controller = HAB } # Aruke Carlos es the city
+1710.11.9 = { controller = SPA } # Aruke Carlos leaves the city due to the pressure of pararies of Fee V
+1713.4.11 = { remove_core = CAS }
+1766.3.23 = { unrest = 3 } # Eshe mutiny
+1766.12.1 = { unrest = 0 } # The King grs a pardon and es back to rid, af the sins has bilised.
+1808.5.1 = { controller = FRA } # Invaded by the French army
+1808.5.2 = { revolt = { type = pretender_rebels size = 3 } controller = REB } # Dos de Mayo
+1808.5.3 = { revolt = {} controller = SPA }
+1813.3.19 = { revolt = { type = pretender_rebels size = 2 } controller = REB }
+1813.12.11 = { revolt = {} controller = SPA }

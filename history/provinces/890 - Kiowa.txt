@@ -1,0 +1,28 @@
+#890 - wa
+
+culture = nee #Old plains ple
+religion = em
+capital = "wa"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 3
+native_hostiess = 9 
+
+
+
+discovered_by = north_aican
+
+1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
+
+1760.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	trade_goods = grain
+	is_city = yes
+	culture = wa 
+} #Great Plain tribes spread over vast rries

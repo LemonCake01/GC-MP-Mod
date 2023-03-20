@@ -1,0 +1,19 @@
+# - qu
+
+culture = khoisan
+religion = shamanism #Fetishism
+capital = "qu"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 2
+native_hostiess = 6
+
+
+
+
+1750.1.1 = { discovered_by = NED }
+

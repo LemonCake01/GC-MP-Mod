@@ -1,0 +1,36 @@
+#4214 - ar
+
+owner = 
+controller = 
+add_core = 
+culture = sunnivkh
+religion = tengri_pagan_reformed
+capital = "ar"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+discovered_by = nese
+discovered_by = no_group
+
+1542.1.1 = { discovered_by = POR }
+1643.1.1 = { discovered_by = RUS } # Vly Poyov
+
+1653.1.1 = {
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+} # Pyotr Bekv
+1678.1.1 = { add_core = RUS }
+1689.8.27 = {
+	discovered_by = QNG
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+	religion = confunism
+	trade_goods = fish
+} # Treaty of Nernsk
+1700.1.1 = { trade_goods = fur }

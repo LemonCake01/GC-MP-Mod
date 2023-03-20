@@ -1,0 +1,23 @@
+#4186 - Iyo
+
+owner = 
+controller = 
+culture = jnese
+religion = shinto
+capital = "Yuzuki"
+trade_goods = copper
+hre = no
+base_tax = 3
+base_manpower = 2
+base_production = 2
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1586.1.1 = { add_core = MRI owner = MRI controller = MRI remove_core =  } # Fall of the o n
+1600.10.21 = { owner =  controller =  add_core =  remove_core = MRI }
+1614.12.18 = { add_core =  owner =  controller =  remove_core =  } # Date-Uwajima n

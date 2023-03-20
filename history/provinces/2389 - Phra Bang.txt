@@ -1,0 +1,32 @@
+#2389 - Phra Bang
+
+owner = 
+controller = 
+culture = central_thai
+religion = buddhism
+capital = "Phra Bang"
+trade_goods = tropical_wood
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = 
+
+
+
+discovered_by = nese
+discovered_by = ian
+
+
+1438.1.1 = {	
+	add_core = 
+} # hothai is under Peral Union with tthaya
+1530.1.1 = {
+	owner = 
+	controller = 
+	remove_core = 
+} # pletely annexed by tthaya
+1535.1.1 = { discovered_by = POR }
+1767.4.1 = { unrest = 7 } # The fall of tthaya
+1774.1.1 = { unrest = 0 }

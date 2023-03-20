@@ -1,0 +1,50 @@
+#1128 - Taodeni
+
+owner = TMB
+controller =  TMB # under reg rule to 1468
+add_core = TMB
+is_city = yes
+culture = tuareg
+religion = sunni
+capital = "Tawdani"
+trade_goods = salt
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 60
+native_ferocity = 4
+native_hostiess = 10 
+
+
+
+discovered_by = sub_saharan
+discovered_by = MOR
+
+
+1518.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+} #iya Muhad of ghai seizes control 
+1543.1.1 = { add_core = MOR unrest = 3 } #Muhad al-Shaykh ims Taodeni for Morocco, stirs up resince to ghai
+1556.1.1 = { owner = MOR controller = MOR } #Moron Expedin seizes Taghaza
+1557.1.1 = { owner =  controller =  } #Morocco returns Taghaza to ghai control
+1585.1.1 = { owner = MOR controller = MOR } #Moron Expedin expels ghai governor
+1630.1.1 = {
+	owner = SOS
+	controller = SOS
+	add_core = SOS
+}
+1631.1.1 = {
+	owner = TFL
+	controller = TFL
+	add_core = TFL
+	remove_core = SOS
+}	#Alaouites
+1642.1.1 = { remove_core =  } #Collapse of last vestiges of unity among ghai
+1668.9.7 = {
+	owner = MOR
+	controller = MOR
+	remove_core = TFL
+} #Alaouites reunifies the country

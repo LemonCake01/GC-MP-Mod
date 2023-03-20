@@ -1,0 +1,16 @@
+#4041 - Ki
+
+culture = a
+religion = shamanism #Fetishism
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 4
+native_hostiess = 9
+capital = "Ki"
+
+discovered_by = east_african
+discovered_by = central_african

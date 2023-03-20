@@ -1,0 +1,39 @@
+#4448 - Parhimedi
+
+owner = 
+controller = 
+culture = garjati
+religion = huism
+capital = "Parhimedi"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = no_group
+discovered_by = ian
+discovered_by = muslim 
+discovered_by = ottoman
+
+1498.1.1 = { discovered_by = POR }
+1752.1.1 = {
+	owner = NAG
+	controller = NAG
+	add_core = NAG
+} # Marathas
+1803.1.1 = {
+	owner = GBR
+	controller = GBR
+}
+1806.1.1 = {
+	owner = NAG
+	controller = NAG
+}
+1816.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+}

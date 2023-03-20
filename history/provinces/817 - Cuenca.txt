@@ -1,0 +1,51 @@
+#817 - Cuenca
+
+owner = 
+controller = 
+add_core = 
+culture = cara
+
+
+
+discovered_by = south_aican
+discovered_by = andean
+
+religion = inti
+capital = "Suralli"
+is_city = yes
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+
+
+discovered_by = 
+
+
+1487.1.1 = {
+	owner = INC
+	controller = INC
+	add_core = INC
+	religion = inti
+	capital = "Tumiba" #Renamed by Huayna Cc
+}
+1533.1.1 = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	remove_core = INC
+	capital = "Cuenca"
+	culture = castillian
+	religion = catholic
+} # Conquered by the Sish
+1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
+1810.7.20 = {
+	owner = COL
+	controller = COL
+	add_core = COL
+} # Colombia deres edence
+1819.8.7 = { remove_core = SPA } # Colombia's edence is recongnized

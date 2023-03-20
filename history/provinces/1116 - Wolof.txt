@@ -1,0 +1,27 @@
+#1116 - Wolof
+
+owner = 
+controller = 
+culture = ebian
+is_city = yes
+base_manpower = 2
+religion = shamanism #Fetishism
+capital = "Jowol"
+trade_goods = slaves
+hre = no
+base_tax = 3 
+base_production = 3
+add_core = 
+
+
+
+discovered_by = sub_saharan
+
+
+1493.1.1 = { unrest = 4 } # Fulani incurns begin
+1549.1.1 = { owner = FUL controller = FUL add_core = FUL } #Fulani kingdom conquers the region under Koli Tengella
+1590.1.1 = { revolt = {} } #ba Lamu ends inbility in Futa Toro, begins pod of exn
+1620.1.1 = { discovered_by = western } #by this point European traders on coast ae of political sin along Upper egal River
+1673.1.1 = { unrest = 10 }#The Tuan, suppors of Nr al-Din's Marabout movement, invade Futa Toro
+1677.1.1 = { owner =  controller =  add_core =  remove_core = FUL } #Fulani dged by Marabout uprising, of kigm regain some ascendancy.
+1784.1.1 = { religion = sunni unrest = 2 } #beging of intense convern to am in region, religion of province nges to ni

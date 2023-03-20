@@ -1,0 +1,54 @@
+#587 - Kengtung
+
+owner = 
+controller = 
+culture = shan
+religion = anim
+capital = "Kengtung"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+add_core = 
+
+
+
+discovered_by = nese
+discovered_by = ian
+
+
+1502.1.1 = {
+	controller = SST
+	owner = SST
+	add_core = SST
+	remove_core = 
+}
+1554.1.1 = { add_core =  }
+1563.4.1 = {
+	controller = 
+	owner = 
+}
+1599.1.1 = {
+	owner = SST
+	controller = SST
+}
+1605.1.1 = {
+	owner = 
+	controller = 
+}
+1655.1.1 = { discovered_by = SPA }#Novus As Sinensis
+1732.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1739.1.1 = { unrest = 5 } # Rebellion
+1740.1.1 = { unrest = 0 }
+1769.12.13 = {
+	owner = 
+	controller = 
+	remove_core = QNG
+}
+1803.1.1 = { add_core =  }

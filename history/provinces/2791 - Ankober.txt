@@ -1,0 +1,53 @@
+#2791 - Aber
+
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = SOA
+culture = amhara 
+religion = sunni
+capital = "Aber"
+is_city = yes
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = ian
+
+
+1486.1.1 = { capital = "Badeqe" } # Debre Bin abaned
+1533.1.1 = { unrest = 7 } # Raids by Ah Gran
+1534.1.1 = {
+	discovered_by = ADA
+	owner = ADA
+	controller = ADA
+	unrest = 6
+} # Ah Gran es over region
+1535.1.1 = { unrest = 0 }
+1544.1.1 = {
+	owner = ETH
+	controller = ETH
+} # Adal collapse in highlands in wake of Ah Gran's death
+1546.1.1 = { capital = "Munesa" } # Galawdewos eblishes capital on frontline with Adal
+1574.1.1 = { unrest = 5 } # Invon by Oromo
+1592.1.1 = { unrest = 0 revolt = { type = revolunary_rebels size = 1 } controller = REB } # Oromo seize control of region
+1594.1.1 = { revolt = {} controller = ETH } # Impal control restored
+1603.1.1 = { unrest = 9 } # Revolt against Za Dengel af his convern to Catholicism
+1604.10.25 = { unrest = 0 } # Za Dengel overthrown, revolt ends
+1605.1.1 = { revolt = { type = revolunary_rebels size = 1 }controller = REB } # eynos revolts against ob
+1608.1.1 = { revolt = {} controller = ETH } # eynos overthrows ob
+1627.1.1 = { unrest = 5 } # eynos' proion of Roman Catholicism causes sive revolts
+1630.1.1 = { unrest = 4 } # Sarsa Krestos rebels against eynos
+1631.1.1 = { unrest = 2 } # eynos defeats Sarsa Krestos
+1632.1.1 = { unrest = 5 } # ta Krestos rebels against eynos
+1632.8.1 = { unrest = 0 } # eynos abdicates in favor of Flidos
+1695.1.1 = { unrest = 5 } # Invon by Oromo
+1696.1.1 = { unrest = 0 } # Yohannes defeats Oromo incurns
+1770.1.1 = { revolt = { type = heretic_rebels size = 1 } controller = REB } # Ras ael begins persecun of sost lidot theology, rebels seize control
+1771.1.1 = { revolt = {} controller = ETH } # Ras ael deposed
+1772.1.1 = { unrest = 0 }

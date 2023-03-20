@@ -1,0 +1,34 @@
+#581 - Sagaing
+
+owner = 
+controller = 
+culture = burmese
+religion = buddhism
+capital = "Sagaing"
+trade_goods = con
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 4
+is_city = yes
+add_core = 
+
+
+
+discovered_by = nese
+discovered_by = ian
+
+
+1527.1.1 = {
+	owner = SST
+	controller = SST
+	add_core = SST
+	remove_core = 
+}
+1554.1.1 = { add_core =  }
+1555.1.22 = { controller =  }
+1563.4.1 = {	
+	owner = 
+	remove_core = SST
+}
+1760.1.1 = { discovered_by = GBR }

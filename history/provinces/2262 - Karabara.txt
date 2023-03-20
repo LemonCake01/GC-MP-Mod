@@ -1,0 +1,18 @@
+# No previous file for Karabara
+
+owner = 
+controller = 
+add_core = 
+is_city = yes
+culture = ghai 
+religion = sunni
+capital = "Karabara"
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+discovered_by = sub_saharan
+
+1591.3.15 = { discovered_by = MOR	owner = MOR controller = MOR add_core = MOR } # Moron victory at dibi
+1618.1.1 = { owner =  controller =  add_core =  remove_core = MOR } # Morons no longer appoint governors, local Morons, the Arma, rule on their own

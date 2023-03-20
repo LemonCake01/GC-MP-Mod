@@ -1,0 +1,28 @@
+#2742 - North Hamgyeong
+
+owner = 
+controller = 
+culture = man
+religion = confunism
+capital = "Gyeongwon"
+trade_goods = nl_supplies
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = 
+#add_core = 
+discovered_by = nese
+discovered_by = no_group
+add_local_auomy = 60
+add_nanalism = 15
+
+1542.1.1 = { discovered_by = POR }
+1592.7.18 = { controller =  } # Jnese invon - Ble of Haejungng
+1593.2.22 = { controller =  } # o retreats to Seoul
+1637.1.1 = { add_core =  } # Tribuy of Qing na
+1644.1.1 = { add_core = MCH remove_core =  } # Part of the Man empire
+1645.7.1 = { add_core = QNG remove_core = MCH }
+1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+1739.1.1 = { discovered_by = RUS } # Martin Sberg

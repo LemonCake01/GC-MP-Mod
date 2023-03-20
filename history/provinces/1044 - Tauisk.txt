@@ -1,0 +1,32 @@
+#1044 - isk
+
+culture = t
+religion = tengri_pagan_reformed
+capital = "isk"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostiess = 3
+
+
+
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = 
+
+1647.1.1 = { discovered_by = RUS } # V. Asov
+
+1732.1.1 = {
+	owner = RUS
+	controller = RUS
+	is_city = yes
+	religion = orthodox
+	culture = russian
+	trade_goods = gold
+} # Conquered by Russia
+1757.1.1 = { add_core = RUS }

@@ -1,0 +1,17 @@
+#870 - s
+
+culture = 
+religion = em
+capital = "s" 
+trade_goods = unwn 
+hre = no 
+base_tax = 1 
+base_production = 1 
+base_manpower = 1 
+native_size = 50 
+native_ferocity = 3 
+native_hostiess = 5 
+discovered_by = north_aican
+tribal_owner = 
+
+

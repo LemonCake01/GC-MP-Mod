@@ -1,0 +1,33 @@
+#1160 - Mandara
+
+owner = 
+controller = 
+add_core = 
+culture = uri
+religion = shamanism #Fetishism
+capital = "Wandala"
+is_city = yes
+base_manpower = 1
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+
+
+
+discovered_by = sub_saharan
+
+
+1503.1.1 = { controller =  } #Mai akare restores Borno authty
+1521.1.1 = { unrest = 7 } #Rebellions af death of akare
+1562.1.1 = { revolt = { type = revolunary_rebels size = 1 } controller = REB } #Bulaba eject Borno from the region
+1566.1.1 = { revolt = {} controller =  } #Mai is Alawoma restores Borno authty in region
+1580.1.1 = { unrest = 9 capital = "Dulo" } #Innal struggles debilize region
+1612.1.1 = { unrest = 0 } #Borno ends innal strife, inlls puppet rulers in Mandara
+1682.1.1 = { unrest = 8 } #Jukun Invon
+1684.1.1 = { unrest = 0 } #Jukun Expelled
+1715.1.1 = { religion = sunni } #rulers of Mandara dere am te religion
+1780.1.1 = { unrest = 9 } #Mandara rebel against Borno dominan
+1781.1.1 = { revolt = { type = revolunary_rebels size = 1 } controller = REB } #Borno overlords are expelled
+1782.1.1 = { revolt = {} }
+1804.1.1 = { discovered_by = SOK }

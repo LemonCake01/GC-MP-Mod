@@ -1,0 +1,20 @@
+# - Ns
+
+owner = 
+controller = 
+culture = mbundu
+religion = shamanism #Fetishism
+capital = "Ns"
+is_city = yes
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+add_core = 
+discovered_by = central_african
+
+1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
+1580.1.1 = { discovered_by = ENG } # Francis Drake
+1665.10.30 = { unrest = 8 } #Af the Ble of Mbwila the go is torn rt by consecutive ci s.
+1702.1.1 = { unrest = 0 } #Order more or less restored

@@ -1,0 +1,38 @@
+#821 - jos
+
+culture = jivaro
+
+
+
+discovered_by = south_aican
+discovered_by = andean
+
+religion = anim
+capital = "Baeza"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1 
+native_hostiess = 1
+
+1533.8.29 = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	religion = catholic
+	is_city = yes
+	trade_goods = oa
+}
+1578.1.1 = { unrest = 8 } # Abused ians rebel & destroy Aa & Ardona
+1579.1.1 = { unrest = 0 } # Help arives from to
+1810.7.20 = {
+	owner = COL
+	controller = COL
+	add_core = COL
+} # Colombia deres edence
+1819.8.7 = { remove_core = SPA } # Colombia's edence is recongnized

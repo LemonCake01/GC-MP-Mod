@@ -1,0 +1,42 @@
+#605 - Prey No
+
+owner = 
+controller = 
+culture = er
+religion = huism
+capital = "Prey No"
+trade_goods = tropical_wood
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = 
+
+
+
+discovered_by = nese
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+
+1535.1.1 = { discovered_by = POR }
+
+1698.1.1 = {	owner = ANN
+	controller = ANN
+	add_core = ANN
+} # Vietnamese control
+1769.1.1 = { unrest = 6 } #   revolt
+1776.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	remove_core = 
+} # Tay  Dynasty annexed the Nguyen Lords
+1788.9.1 = {
+	unrest = 0
+	owner = ANN
+	controller = ANN
+	add_core = ANN
+	remove_core = 
+} # Nguyen recovered the land

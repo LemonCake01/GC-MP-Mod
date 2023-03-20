@@ -1,0 +1,47 @@
+# 2247 - h
+
+owner = TMB
+controller =  TMB # under reg rule to 1468
+add_core = TMB
+is_city = yes
+culture = tuareg 
+religion = sunni
+capital = "Wal"
+trade_goods = salt
+hre = no
+base_tax = 1
+base_production = 1
+native_size = 40
+native_ferocity = 4
+native_hostiess = 9
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+discovered_by = MOR
+
+
+1517.1.1 = {
+	owner = 
+	controller = 
+	add_core =  
+}
+1593.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+	remove_core =  
+} #Moron conqt
+1618.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	remove_core = MOR 
+} #Morons no longer appoint governors, local Morons, the Arma, rule on their own (recycle  tag)
+1670.1.1 = {
+	owner = SOF
+	controller = SOF
+	add_core = SOF
+	remove_core =  
+} #sa eblish the si dynasty and rta kingdom as Bara exn

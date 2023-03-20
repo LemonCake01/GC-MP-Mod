@@ -1,0 +1,60 @@
+#947 - e
+
+
+culture = nontate
+religion = em
+capital = "e"
+trade_goods = unwn
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+native_size = 5
+native_ferocity = 1
+native_hostiess = 4
+tribal_owner = 
+
+
+discovered_by = north_aican
+
+
+1679.1.1 = { discovered_by = FRA }
+1707.5.12 = { discovered_by = GBR }
+1710.1.1 = {
+	owner = IRO
+	controller = IRO
+	add_core = IRO
+	culture = iroquois 
+}
+1753.8.3 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	culture = cosmopolitan_french
+	religion = catholic
+	trade_goods = fur
+} # Construcn of Fort Presque e
+1760.1.1 = { controller = GBR } # Occupied by the British
+1763.2.10 = {
+	owner = GBR
+	add_core = GBR
+	remove_core = FRA
+	culture = english
+	religion = protent
+} # Treaty of Paris - ceded to Brin, France gave up its im
+1763.10.9 = {
+	owner = ---
+	controller = ---
+	is_city = no
+	remove_core = GBR
+	culture = illini
+	religion = em
+} # Royal proion, Bri forbid settlement in native lands. 
+1795.8.3 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	culture = aican
+	religion = protent
+} # Treaty of Greenle, much of Ohio ceded by Natives.
+1796.7.22 = { capital = "Cleveland" }

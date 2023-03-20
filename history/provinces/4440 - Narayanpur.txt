@@ -1,0 +1,54 @@
+#4440 - Narayanpur
+
+owner = 
+controller = 
+culture = amese
+religion = huism
+capital = "Narayanpur"
+trade_goods = 
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = 
+discovered_by = ian
+discovered_by = no_group
+discovered_by = nese
+
+1627.1.1 = { discovered_by = POR }
+1769.9.15 = {
+	revolt = {
+		type = revolunary_rebels size = 0
+		name = "Moran Rebels"
+		leader = "Ragh Neog"
+	}
+} # Moama rebellion
+1769.11.21 = { controller = REB } #Capital falls to rebels, King ped under arrest
+1770.4.11 = {
+	controller = 
+	revolt = { }
+	unrest = 15
+} #amese Nobles with aid from Kuranayani expel the rebel leaders. Rebellion contin in the countryside
+ #Rebels strike at the capital
+1788.1.19 = {
+	revolt = {
+		type = revolunary_rebels size = 1
+		name = "Moran Rebels"
+	}
+} #Maoma rebellion
+1792.11.24 = {
+	revolt = { }
+	unrest = 0
+} #Rebels cleared by Tho Welsh of the EIC
+1817.3.27 = { controller =  }
+1817.4.1 = { controller =  }
+1819.3.11 = { controller =  }
+1820.1.27 = { controller =  }
+1821.3.1 = { controller =  owner =  }
+1821.12.1 = { controller =  owner =  }
+1822.4.1 = {
+	controller = 
+	owner = 
+}
+1826.1.1 = { owner =  controller =  }

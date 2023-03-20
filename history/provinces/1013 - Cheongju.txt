@@ -1,0 +1,26 @@
+#1013 - ongju
+
+owner = 
+controller = 
+culture = ean
+religion = confunism
+capital = "ongju"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = no_group
+
+1519.1.1 = { discovered_by = POR } # Tome Pires
+1592.6.6 = { controller =  unrest = 5 } # Jnese invon - Ble of ongju
+1593.6.10 = { controller =  unrest = 0 } # With nese help the Jnese are driven back
+1597.9.30 = { controller =  unrest = 5 } # Jnese invon - 2nd Ble of ongju
+1597.11.1 = { controller =  unrest = 0 } # the Jnese retreat south
+1637.1.1 = { add_core =  } # Tribuy of Qing na
+1644.1.1 = { add_core = MCH remove_core =  } # Part of the Man empire
+1645.7.1 = { add_core = QNG remove_core = MCH }
+1653.1.1 = { discovered_by = NED } # Hendrick Hamel

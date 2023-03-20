@@ -1,0 +1,100 @@
+#539 - Pulicat
+
+owner = 
+controller = 
+culture = tamil
+religion = huism
+capital = "Pulicat"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = 
+add_local_auomy = 50
+discovered_by = ian
+discovered_by = no_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nese
+extra_cost = 16
+center_of_trade = 2
+
+1405.1.1 = { discovered_by = nese }
+1445.1.1 = { controller =  } # Conquered by Gajtis
+1448.10.1 = { owner =  add_core =  } # Conquered by Gajtis
+1462.1.1 = { controller =  } # Reconquered by ayanagar
+1464.1.1 = { owner =  } # Reconquered by ayanagar
+1482.5.1 = { controller =  }
+1489.1.1 = { controller =  }
+1498.1.1 = { discovered_by = POR }
+1616.1.1 = {
+	owner = NED
+	controller = NED
+	add_core = NED
+	remove_core = 
+	add_to_trade_y = NED
+	add_trade_y_investment = {
+		investment = y_ehouse
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = y_administran
+		investor = NED
+	}
+} # Dutch east ia y's capital
+1639.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	remove_core = NED
+	capital = "ras"
+	add_to_trade_y = ENG
+	add_trade_y_investment = {
+		investment = y_ehouse
+		investor = ENG
+	}
+	add_trade_y_investment = {
+		investment = y_administran
+		investor = ENG
+	}
+} # Ceded by ayanagara & y Capital
+1707.5.12 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+	add_to_trade_y = GBR
+	add_trade_y_investment = {
+		investment = y_ehouse
+		investor = GBR
+	}
+	add_trade_y_investment = {
+		investment = miliy_administran
+		investor = GBR
+	}
+	add_trade_y_investment = {
+		investment = permanent_quars
+		investor = GBR
+	}
+	add_trade_y_investment = {
+		investment = governor_general_mann
+		investor = GBR
+	}
+}
+1746.9.1 = { controller = FRA }
+1748.10.18 = { controller = GBR } #Peace of Aan
+1758.6.7 = { controller = FRA }
+1760.1.22 = { controller = GBR } #Ble of Wandiwash
+1806.7.10 = {
+	revolt = {
+		type = nanalist_rebels
+		size = 3
+	}
+	controller = REB
+} # The Vellore Mutiny
+1806.7.11 = {
+	revolt = {}
+	controller = GBR
+} # British control is restored

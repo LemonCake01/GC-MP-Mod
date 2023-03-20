@@ -1,0 +1,57 @@
+#514 - Mar
+
+owner = MAW
+controller = MAW
+culture = rajput
+religion = huism
+add_rajp_or_marathas_or_nobles_effect = yes
+capital = "Mare"
+trade_goods = con
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = MAW
+discovered_by = ian
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = no_group
+discovered_by = nese
+
+
+1438.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+} #Conquered by ar af Rathore, Sisodiya peran breaks down in plots and murder.
+1444.1.1 = {
+	revolt = {
+		size = 1
+		type = nanalist_rebels
+		leader = "Jodha Rathore"
+	}
+	controller = REB
+} #During the pod between 1438 and 1459 Jodha e several empts to ree his ancestral lands.
+1459.1.1 = {
+	capital = "Jodphur"
+	controller = MAW
+	owner = MAW
+	remove_core = 
+	revolt = { }
+} #Rathores restored
+1679.8.1 = { controller = MUG } # The city is pillaged
+1681.1.1 = {
+	owner = MUG
+	add_core = MUG
+	unrest = 5
+}
+1690.1.1 = { discovered_by = ENG }
+1707.3.15 = { controller =  } # Jodphur is recaptured & the Mughals are driven out
+1707.4.1 = {
+	controller = MAW
+	owner = MAW
+	remove_core = MUG
+	unrest = 0
+} # Mar edent
+1707.5.12 = { discovered_by = GBR }

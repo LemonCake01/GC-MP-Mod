@@ -1,0 +1,23 @@
+#1014 - Bungo
+
+owner = 
+controller = 
+culture = kyushuan
+religion = shinto
+capital = "Funai"
+trade_goods = tropical_wood
+hre = no
+base_tax = 4 
+base_production = 2
+base_manpower = 3
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1542.1.1 = { discovered_by = POR }
+1599.1.1 = { owner =  controller =  add_core =  remove_core =  }
+1632.1.1 = { owner =  controller =  add_core =  remove_core =  }
