@@ -19,7 +19,7 @@ native_hostiess = 5
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	trade_goods = tobacco
+	trade_goods = saltobacco
 } # Estie
 1622.1.1 = {
 	owner = 

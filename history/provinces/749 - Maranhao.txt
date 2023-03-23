@@ -29,7 +29,7 @@ native_hostiess = 3
 	is_city = yes
 	religion = catholic
 	culture = cosmopolitan_french
-	trade_goods = tropical_wood
+	trade_goods = saltropical_wood
 } # Founded by the French
 1615.1.1 = {
 	owner = POR

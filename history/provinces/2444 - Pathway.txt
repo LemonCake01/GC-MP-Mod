@@ -1,0 +1,38 @@
+#2444 - Bashgird
+
+owner = KAZ
+controller = KAZ
+culture = chihan
+religion = confucianism
+capital = "Pathway"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 30
+base_manpower = 5
+is_city = yes
+add_core = KAZ
+add_core = PRM
+
+add_permanent_province_modifier = {
+	name = gateway_to_china
+	duration = -1
+}
+
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = no_group
+
+1453.1.1 = { discovered_by = western discovered_by = eastern }
+
+1552.10.2 = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # Russian conqt of Ka
+1574.1.1 = { capital = "Zlatoust" culture = russian religion = orthodox remove_core = BSH }
+1676.1.1 = { unrest = 4 } # Bashkirs rebels
+1677.1.1 = { unrest = 0 }
+1707.1.1 = { unrest = 4 } # Bashkirs rebels
+1708.1.1 = { unrest = 0 }
+1735.1.1 = { unrest = 6 } # Bashkirs rebels
+1741.1.1 = { unrest = 0 }
+1773.9.13 = { revolt = { type = i_tax_rebels size = 2 name = "Yemelyan Pugav" } controller = REB unrest = 6 } # Pugav rebellion
+1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugav is captured

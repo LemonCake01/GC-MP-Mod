@@ -1,0 +1,36 @@
+owner = 
+controller = 
+add_core = 
+is_city = yes
+culture = ctaw
+religion = em
+capital = "Tohome"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = north_aican
+
+1540.1.1 = { discovered_by = SPA } # Herna de S
+1600.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	remove_core = 
+} #Survivors of Tuscalo's empire bees part of the ctaw
+1786.1.3 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	culture = aican
+	trade_goods = con
+	is_city = yes
+	religion = protent 
+} #Treaty of Hopewell (with the ctaw), e under US authty

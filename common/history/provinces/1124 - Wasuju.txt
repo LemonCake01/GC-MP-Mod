@@ -1,0 +1,32 @@
+#1124 - Wasuju
+
+owner = 
+controller = 
+culture = i
+is_city = yes
+base_manpower = 8
+religion = sunni #Repreting the ian Aristocy, rural populan liy still adhng to tradinal beliefs.
+capital = "Niani"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+add_core = 
+discovered_by = sub_saharan
+extra_cost = 8
+center_of_trade = 1
+
+
+1469.1.1 = { unrest = 6 } # ni Ali of ghai launs sive raids
+1481.1.1 = { discovered_by = POR } # Portuge n arrives at the court of the i Mansa
+1600.1.1 = { base_tax = 2 
+base_production = 2 base_manpower = 1 } #Collapse of i into minor tes af Jenné
+1650.1.1 = { trade_goods = ivory } # shift in cen of gravity of region from Niger River to the Forest Region
+1658.1.1 = { owner = SOF controller = SOF add_core = SOF base_manpower = 2 } # under control of Bara kingdom of adian Kulibali
+1685.1.1 = { revolt = { type = revolunary_rebels size = 1 } controller = REB } # Bara control lost in wake of death of death of adian Kulibali 
+1725.1.1 = { revolt = {} controller = SOF } # under control of Bara kingdom of Mri Kulibali
+1737.1.1 = { unrest = 3 } # Raids by kingdom of g debilize area
+1739.1.1 = { unrest = 0 } # Mri Kulibali ejects invaders from g
+1756.1.1 = { unrest = 9 } # Dero seizes er in wake of father Mli's death, ci 
+1760.1.1 = { unrest = 0 revolt = { type = revolunary_rebels size = 1 } controller = REB } # Bara control lost in wake of death of Mri Kulibali
+1769.1.1 = { revolt = {} controller = SOF } # Ngolo Diarra restores authortiy of Segu te in region

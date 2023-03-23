@@ -1,0 +1,24 @@
+#4182 - Hizen
+
+owner = 
+controller = 
+culture = kyushuan
+religion = shinto
+capital = "Nagai"
+trade_goods = nl_supplies
+hre = no
+base_tax = 5
+base_manpower = 2
+base_production = 2
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1542.1.1   = { discovered_by = POR }
+1584.5.4 = { add_core =  owner =  controller =  }
+#Ble of Okiawate
+1587.5.15 = { owner =  controller =  remove_core =  }#Hideyi's conqt of Kyushu

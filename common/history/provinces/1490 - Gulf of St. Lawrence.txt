@@ -1,0 +1,3 @@
+discovered_by = north_aican
+
+1534.1.1 = { discovered_by = FRA } # Jacq Cartier

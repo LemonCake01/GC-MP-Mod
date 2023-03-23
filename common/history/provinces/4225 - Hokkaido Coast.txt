@@ -1,0 +1,13 @@
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+discovered_by = 
+discovered_by = 
+
+
+
+
+1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
+

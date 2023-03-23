@@ -1,0 +1,28 @@
+#4183 - Ii
+
+owner = 
+controller = 
+culture = jnese
+religion = shinto
+capital = "Hda"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_manpower = 2
+base_production = 2
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1495.1.1 = { add_core =  owner =  controller =  }
+1521.1.1 = { add_core =  } 
+1533.1.1 = { trade_goods = gold } # Ii Silver mine disconvered
+1542.1.1   = { discovered_by = POR }
+1555.10.1   = { add_core = MRI remove_core =  }
+1557.4.3 = { owner = MRI controller = MRI remove_core =  }
+1600.10.21 = { owner =  controller =  add_core =  remove_core = MRI fort_15th = no }
+1693.1.1 = { trade_goods = fish } # Estie, Jn stops silver export

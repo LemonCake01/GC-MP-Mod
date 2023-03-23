@@ -25,7 +25,7 @@ discovered_by = north_aican
 	is_city = yes
 	culture = swedish
 	religion = protent
-	trade_goods = tobacco
+	trade_goods = saltobacco
 	capital = "Nya Elfsborg" 
 } #Founding of settlement in New Jersey
 1655.9.15 = {

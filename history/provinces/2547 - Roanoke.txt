@@ -25,7 +25,7 @@ discovered_by = north_aican
 } # Albemarle settlements
 1676.1.1 = { unrest = 4 } # Bn's rebellion, high taxes, low prices for tobacco
 1677.1.1 = { unrest = 0 }
-1700.1.1 = { trade_goods = tobacco }
+1700.1.1 = { trade_goods = saltobacco }
 1707.5.12 = {
 	discovered_by = GBR
 	owner = GBR

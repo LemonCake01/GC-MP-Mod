@@ -1,0 +1,54 @@
+#623 - Tulangbewang
+
+culture = suran
+religion = huism
+capital = "Tulangbewang"
+trade_goods = spices
+hre = no
+base_tax = 1
+base_production = 5
+base_manpower = 1
+native_size = 30
+native_ferocity = 9
+native_hostiess = 7
+
+
+
+discovered_by = nese
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+
+1405.1.1 = { discovered_by =  }
+1444.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	is_city = yes
+	trade_goods = spices
+}
+1509.1.1 = { discovered_by = POR }
+
+1550.1.1 = {
+	owner = BAN
+	controller = BAN
+	add_core = BAN
+	is_city = yes
+	religion = sunni
+	
+} # Ben Sulate exded the influence in South Sura
+1752.1.1 = {
+	owner = NED
+	controller = NED
+	add_core = NED
+	remove_core = BAN
+	add_to_trade_y = NED
+	add_trade_y_investment = {
+		investment = y_de
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = bros_exnge
+		investor = NED
+	}
+}

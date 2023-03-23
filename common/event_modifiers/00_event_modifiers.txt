@@ -11,6 +11,20 @@ sub-saharan-empire = { #Skånemarknaden - Biggest Herring Market in Europe
 	local_gold_depletion_chance_modifier = -1
 }
 
+cavalry_core = {
+	cav_to_inf_ratio = -0.25
+	cavalry_cost = 0.2
+	cavalry_power = 0.30
+	cavalry_flanking = 1
+}
+
+gateway_to_china = {
+	trade_goods_size = 5
+	trade_value_modifier = 2
+	province_trade_power_value = 100
+	land_forcelimit = -5
+}
+
 gateway_to_india = {
 	trade_goods_size = 2
 	trade_value_modifier = 0.25

@@ -1,0 +1,30 @@
+#2678 - Bangka
+
+culture = suran
+religion = huism
+capital = "Bangka"
+trade_goods = unwn
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 3
+native_hostiess = 2
+
+1444.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	is_city = yes
+	trade_goods = copper
+}
+
+discovered_by = nese
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+
+1405.1.1 = { discovered_by =  }
+1509.1.1 = { discovered_by = POR religion = sunni }
+

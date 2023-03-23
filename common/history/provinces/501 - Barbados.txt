@@ -1,0 +1,34 @@
+#501 - Barbados
+
+culture = carib
+religion = anim
+capital = "Barbados"
+trade_goods = unwn
+hre = no
+base_tax = 4 
+base_production = 5
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostiess = 5
+
+1536.1.1 = { discovered_by = POR } # Pedro Campos
+1620.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	culture = english
+	religion = protent
+	is_city = yes
+	trade_goods = sugar
+} # The British found the and uninhted
+1628.1.1 = { capital = "Bridgwn" } # British settlers began to arrive. Under uninrud British control until 1966
+1707.5.12 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+}
+1816.4.14 = { revolt = { type = nanalist_rebels size = 2 } controller = REB } # Bussa's Rebellion
+1817.1.1 = { revolt = {} controller = GBR }

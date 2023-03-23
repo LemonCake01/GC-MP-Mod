@@ -1,0 +1,24 @@
+#886 - W
+
+owner = 
+controller = 
+add_core = 
+culture = hita
+religion = em
+capital = "W"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+native_size = 6
+native_ferocity = 2
+native_hostiess = 8
+
+
+
+discovered_by = north_aican
+
+1541.1.1 = { discovered_by = SPA }
+

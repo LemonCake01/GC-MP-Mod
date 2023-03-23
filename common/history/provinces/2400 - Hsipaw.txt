@@ -1,0 +1,49 @@
+#2400 - 
+
+owner = 
+controller = 
+culture = shan
+religion = buddhism
+capital = ""
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = 
+
+
+
+discovered_by = nese
+discovered_by = ian
+
+
+1502.1.1 = {
+	controller = SST
+	owner = SST
+	add_core = SST
+	remove_core = 
+}
+1535.1.1 = { discovered_by = POR }
+1554.1.1 = { add_core =  }
+1557.1.25 = { controller =  }
+1563.4.1 = {	owner =  }
+1599.1.1 = {
+	owner = SST
+	controller = SST
+}
+1605.1.1 = {
+	owner = 
+	controller = 
+}
+1739.1.1 = { unrest = 5 } # Rebellion
+1740.1.1 = { unrest = 0 }
+1752.1.1 = {
+	owner = SST
+	controller = SST
+}
+1754.1.1 = {
+	owner = 
+	controller = 
+}

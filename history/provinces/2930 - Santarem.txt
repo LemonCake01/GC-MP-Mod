@@ -20,6 +20,6 @@ native_hostiess = 6
 	add_core = POR
 	culture = portugese
 	religion = catholic
-	trade_goods = tropical_wood
+	trade_goods = saltropical_wood
 	is_city = yes 
 }

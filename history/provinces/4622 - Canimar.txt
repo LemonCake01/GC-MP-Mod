@@ -22,5 +22,5 @@ discovered_by =
 	add_core = SPA
 	remove_core = CAS
 	is_city = yes
-	trade_goods = tobacco
+	trade_goods = saltobacco
 } #Local settlements

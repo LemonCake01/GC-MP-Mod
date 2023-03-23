@@ -1,0 +1,43 @@
+#4430 - Dn
+
+owner = 
+controller = 
+culture = marathi
+religion = zoroastrian
+capital = "Dn"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_jains_or_burghers_effect = yes
+add_core = 
+discovered_by = ian
+discovered_by = no_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nese
+discovered_by = east_african
+
+1498.1.1 = { discovered_by = POR }
+1531.12.23 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	remove_core = 
+	add_to_trade_y = POR
+	add_trade_y_investment = {
+		investment = y_ehouse
+		investor = POR
+	}
+	add_trade_y_investment = {
+		investment = bros_office
+		investor = POR
+	}
+	add_trade_y_investment = {
+		investment = y_administran
+		investor = POR
+	}
+}
+1650.1.1 = { add_core = MAR }

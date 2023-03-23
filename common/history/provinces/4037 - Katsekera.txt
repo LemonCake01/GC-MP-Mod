@@ -1,0 +1,21 @@
+#sea
+
+owner = 
+controller = 
+add_core = 
+culture = nyasa
+religion = shamanism #Fetishism
+capital = "sea"
+is_city = yes
+base_manpower = 2
+trade_goods = ivory
+hre = no
+base_tax = 2
+base_production = 3
+discovered_by = central_african
+
+1735.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+}

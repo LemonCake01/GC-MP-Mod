@@ -1,0 +1,9 @@
+#4177 - Elburz Mounns
+
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = ian
+discovered_by = no_group
+1673.1.1 = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }

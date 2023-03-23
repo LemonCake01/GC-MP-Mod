@@ -1,0 +1,82 @@
+#2075 - Doaba
+
+owner = 
+controller = 
+culture = j
+religion = huism
+capital = "Jalandhar"
+trade_goods = dyes
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 2
+is_city = yes
+add_core = 
+add_core = PUN
+add_core = 
+discovered_by = ian
+discovered_by = no_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nese
+add_province_triggered_modifier = sikh_amritsar
+
+1451.4.20 = {
+	controller = 
+	owner = 
+} #lul Lodi es er in Delhi
+1499.1.1 = {
+	religion = sikhism
+	add_province_triggered_modifier = reious_cen
+}
+1526.2.1 = { controller = TIM } # Babur's invon
+1526.4.21 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+	remove_core = 
+} # Ble of i
+1540.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+} #Conquered by Sher Shah Suri
+1553.1.1 = {
+	owner = 
+	controller = 
+	remove_core = 
+} #Death of am Shah Sur, Suri empire split
+1554.12.1 = {
+	controller = MUG
+	owner = MUG
+} #Ble of Sirh
+1574.1.1 = { capital = "Amritsar" }
+1690.1.1 = { discovered_by = ENG }
+1700.1.1 = {
+	controller = REB
+	revolt = { type = sikhism_rebels size = 1 }
+}
+1707.5.12 = { discovered_by = GBR }
+1715.1.1 = {
+	controller = MUG
+	revolt = { }
+}
+1720.1.1 = {
+	controller = REB
+	revolt = { type = sikhism_rebels size = 1 }
+}
+1757.1.1 = {
+	owner = AFG
+	controller = AFG
+	remove_core = MUG
+	revolt = { }
+}
+1758.1.1 = {
+	controller = MAR
+	add_core = 
+} # Held by the Pesas
+1760.1.1 = { controller = AFG }
+1762.1.1 = {
+	owner = PUN
+	controller = PUN
+}

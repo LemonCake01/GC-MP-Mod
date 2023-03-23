@@ -1,0 +1,43 @@
+#4520 - Ru
+
+owner = 
+controller = 
+add_core = 
+add_core = 
+culture = tibe
+religion = vajrayana
+capital = "Ru"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+discovered_by = nese
+discovered_by = ian
+discovered_by = no_group
+
+1635.1.1 = {
+	owner = 
+	controller = 
+}
+1684.1.1 = {
+	owner = KSD
+	controller = KSD
+	add_core = KSD
+}
+1717.1.1 = {
+	owner = ZUN
+	controller = ZUN
+} #Zunghar invon of Tibet
+1720.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+}
+1721.1.1 = { discovered_by = SPA }
+1792.11.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+} # U-tsang integrated into Qing empire af Sino-nepalese 

@@ -1,0 +1,41 @@
+#949 - Monacan
+
+culture = yu
+religion = em
+capital = "Monacan"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 4
+discovered_by = north_aican
+
+1444.1.1 = { tribal_owner =  }
+1673.1.1 = { discovered_by = ENG } # James Needham and Gabriel Arthur
+1707.5.12 = { discovered_by = GBR } 
+
+1750.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	culture = english
+	trade_goods = nl_supplies
+	religion = protent
+	is_city = yes
+} # British settlers cross the Appahians
+1764.7.1 = {
+	culture = aican
+	unrest = 6
+} # Growing unrest
+1776.7.4 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+} # Deran of edence
+1782.11.1 = {
+	remove_core = GBR 
+	unrest = 0
+} # Preliminary articles of peace, the British recognized Aican edence

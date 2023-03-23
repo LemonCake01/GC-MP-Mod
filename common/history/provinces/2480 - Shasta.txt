@@ -1,0 +1,19 @@
+# No previous file for Sha
+
+culture = nook
+religion = em
+capital = "Sha"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = north_aican
+
+

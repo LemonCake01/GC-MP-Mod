@@ -1,0 +1,59 @@
+#2772 - Dembiya
+
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = BTI
+culture = amhara 
+religion = jewish
+capital = "Gorgora"
+is_city = yes
+base_manpower = 2
+trade_goods = con
+hre = no
+base_tax = 2 
+base_production = 2
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = ian
+
+1440.1.1 = {
+	unrest = 8 #Falasha
+}
+1475.1.1 = { unrest = 6 } #Represn against the Falasha by Baeda Maryam
+1476.1.1 = { unrest = 0 }
+1535.1.1 = { unrest = 7 } #Raids by Ah Gran
+1536.1.1 = { unrest = 0 }
+1538.1.1 = { unrest = 7 } #Raids by Ah Gran
+1539.1.1 = { unrest = 0 }
+1540.1.1 = { unrest = 7 } #Raids by Ah Gran
+1543.2.15 = { unrest = 0 } #Ah Gran defeated at Wayna Daga, killed
+1550.1.1 = { discovered_by = TUR }
+1580.1.1 = { unrest = 5 } #Represn against the Falasha by Sarsa Dengel
+1603.1.1 = { unrest = 9 } #Revolt against Za Dengel af his convern to Catholicism
+1604.10.25 = { unrest = 0 } #Za Dengel overthrown, revolt ends
+1627.1.1 = { unrest = 9 } #eynos' proion of Roman Catholicism causes sive revolts
+1630.1.1 = { unrest = 0 revolt = { type = revolunary_rebels size = 1 } controller = REB } #Sarsa Krestos rebels against eynos
+1631.1.1 = { revolt = {} controller = ETH unrest = 4 }
+1632.1.1 = { unrest = 0 revolt = { type = revolunary_rebels size = 1 } controller = REB } #ta Krestos rebels against eynos
+1632.8.1 = { revolt = {} controller = ETH } #eynos abdicates in favor of Flidos
+1636.1.1 = { capital = "Gonder" } #Royal cen of Gonder eblished
+1658.1.1 = { unrest = 5 } #Invon by Oromo
+1659.1.1 = { unrest = 0 } #Flidos defeats Oromo incurns
+1668.1.1 = { unrest = 5 } #Invon by Oromo
+1669.1.1 = { unrest = 0 } #Yohannes defeats Oromo incurns
+1672.1.1 = { unrest = 5 } #Invon by Oromo
+1673.1.1 = { unrest = 0 } #Yohannes defeats Oromo incurns
+ #Rapid growth of Gonder as royal capital and secure fort
+1707.9.1 = { unrest = 7 } #rebellion against Tekle Haymanot
+1708.7.1 = { unrest = 3 } #Tekle Haymanot overthrown
+1709.4.1 = { unrest = 8 } #Nene Yohannes rebels against Tewoflos
+1710.8.1 = { unrest = 3 } #Nene Yohannes defeated
+1711.11.1 = { unrest = 0 } #Tewoflos overthrown, bility restored
+1766.1.1 = { unrest = 8 } #Ci  between rival Oromo facns in capital
+1767.1.1 = { unrest = 0 } #Ras ael invenes, end Oromo dominance in capital
+1768.1.1 = { unrest = 5 } #Ras ael rebels against Iyoas
+1769.2.1 = { unrest = 2 } #Ras ael deposes Iyoas
+1770.1.1 = { unrest = 5 } #Ras ael begins persecun of sost lidot theology
+1771.1.1 = { unrest = 0 } #Ras ael deposed

@@ -1,0 +1,30 @@
+#2435 - Nukhtui
+
+culture = ut
+religion = tengri_pagan_reformed
+capital = "Olminsk"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 6
+native_ferocity = 1
+native_hostiess = 3
+
+
+
+discovered_by = no_group
+discovered_by = BRT
+
+
+1635.1.1 = {
+	discovered_by = RUS
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+	is_city = yes
+	trade_goods = fish
+}
+1637.1.1 = { add_core = RUS }

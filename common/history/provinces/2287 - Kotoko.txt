@@ -1,0 +1,26 @@
+# No previous file for Kko
+
+owner = 
+controller = 
+add_core = 
+add_core = 
+culture = uri 
+religion = sunni
+capital = "Kko"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+is_city = yes
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+1505.1.1 = {
+	owner =  
+	controller = 
+	add_core =  
+} #is akare rees em

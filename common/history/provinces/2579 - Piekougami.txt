@@ -1,0 +1,25 @@
+# No previous file for Piekoui
+
+owner = 
+controller = 
+add_core = 
+culture = u
+religion = em
+capital = "Piekoui"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = north_aican
+
+
+
+1707.5.12 = { discovered_by = GBR }
+

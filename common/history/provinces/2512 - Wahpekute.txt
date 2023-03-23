@@ -1,0 +1,27 @@
+# No previous file for Wahpee
+
+tribal_owner = 
+culture = dakota
+religion = em
+capital = "Wahpee"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = north_aican
+
+1738.1.1 = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's
+1813.10.5 = { 
+	owner = 
+	controller = 
+	add_core = 
+	is_city = yes
+	trade_goods = nl_supplies
+}

@@ -1,0 +1,49 @@
+#2395 - Hti Long
+
+owner = 
+controller = 
+culture = hin
+religion = anim
+capital = "Hti Long"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = 
+
+
+
+discovered_by = nese
+discovered_by = ian
+
+
+1502.1.1 = {
+	controller = SST
+	owner = SST
+	add_core = SST
+	remove_core = 
+}
+1554.1.1 = { add_core =  }
+1559.1.1 = { controller =  }
+1563.4.1 = {	owner =  }
+1599.1.1 = {
+	owner = SST
+	controller = SST
+}
+1605.1.1 = {
+	owner = 
+	controller = 
+}
+1655.1.1 = { discovered_by = SPA }#Novus As Sinensis
+1732.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1769.12.13 = {
+	owner = 
+	controller = 
+	remove_core = QNG
+}

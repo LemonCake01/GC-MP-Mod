@@ -1,0 +1,72 @@
+#630 - 
+
+owner = 
+controller = 
+add_core = 
+culture = danese
+religion = huism
+capital = ""
+trade_goods = spices
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+discovered_by = nese
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+
+1509.1.1 = { discovered_by = POR }
+1527.1.1 = {
+	owner = BAN
+	controller = BAN
+	add_core = BAN
+	remove_core = 
+} # Conquered by the Cireese Army and Ben Sulate was eblished
+1527.6.22 = { capital = "Jaarta" } # The city's name is nged
+1540.1.1 = { religion = sunni }
+1613.1.1 = { discovered_by = NED } # The Dutch arrived
+1619.5.30 = {
+	owner = NED
+	controller = NED
+	capital = "Bvia"
+}# Conquered by the Dutch
+1644.1.1 = { 
+	add_core = NED
+	add_to_trade_y = NED
+	add_trade_y_investment = {
+		investment = permanent_quars
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = officers_mess
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = y_de
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = property_appraiser
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = bros_exnge
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = district
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = governor_general_mann
+		investor = NED
+	}
+	add_trade_y_investment = {
+		investment = miliy_administran
+		investor = NED
+	}	
+}

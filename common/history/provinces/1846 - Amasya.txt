@@ -1,0 +1,30 @@
+#1846 - sya
+
+owner = TUR
+controller = TUR
+culture = turkish
+religion = sunni
+capital = "sya"
+trade_goods = paper #and iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = TUR
+add_core = ERE
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = no_group
+
+
+1481.6.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Ci , Bayezid & Jem
+1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Res
+1509.1.1 = { revolt = { type = revolunary_rebels size = 2 } controller = REB } # Ci 
+1513.1.1 = { revolt = {} controller = TUR }
+1740.1.1 = { base_tax = 3 base_production = 3 } # The decentralizing effect of the provinl system

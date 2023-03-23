@@ -1,0 +1,4 @@
+discovered_by = north_aican
+
+1497.6.24 = { discovered_by = ENG } # John bot
+1534.1.1 = { discovered_by = FRA } # Jacq Cartier

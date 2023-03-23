@@ -22,8 +22,8 @@ extra_cost = 18
 center_of_trade = 1
 
 add_permanent_province_modifier = {
-	name = gironde_esry_modifier
-	duran = -1
+	name = gironde_estuary_modifier
+	duration = -1
 }
 
 1453.1.1 = { add_core = AMG }

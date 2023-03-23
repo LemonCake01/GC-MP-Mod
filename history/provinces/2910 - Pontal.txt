@@ -25,5 +25,5 @@ native_hostiess = 7
 	is_city = yes
 	culture = portugese
 	religion = catholic
-	trade_goods = tropical_wood
+	trade_goods = saltropical_wood
 }

@@ -1,0 +1,39 @@
+#Savos, incl. Nysl(Olofsborg).
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Olofsborg"
+is_city = yes
+#fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+
+
+1497.3.13 = { controller = DAN } # Danish loyalists at Danish DoW
+1497.10.6 = { controller = SWE } # Hans I bee King and Sweden a Danish Val
+1501.8.1 = { controller = DAN } # Danish loyalists at Swedish DoW and breaking of valage
+1502.9.10 = { controller = SWE } # Reen by Sweden
+1527.6.1 = { religion = protent}
+1598.8.1 = { controller = PLC } # Sigismund tries to reconquer his crown
+1599.8.16 = { controller = SWE } # Duke Karl get it back
+1600.1.1 = { trade_goods = nl_supplies }
+1639.1.1 = { capital = "Nysl" } # Unwn date
+1714.7.29 = { controller = RUS } # The Great Nordic -Captured by Apran
+1721.8.30 = { controller = SWE } # The Peace of Nyd
+1742.9.15 = { controller = RUS } # The  of the Hats-Estied date
+1743.8.7 = { controller = SWE } # The Peace of Åbo
+1808.2.21 = { controller = RUS } # Conquered by Friedr Wilhelm von Buxhoevden
+1809.9.17 = {
+	owner = RUS
+	add_core = RUS
+	remove_core = SWE
+} # Treaty of Fredriamn

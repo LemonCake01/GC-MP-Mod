@@ -819,7 +819,7 @@ pskov_area = { #4
 }
 
 vologda_area = { #3
-	314 4262 4263
+	314 4262 4263 1755
 }
 
 beloozero_area = { #3
@@ -863,7 +863,7 @@ arkhangelsk_area = { #4
 }
 
 bashkiria_area = { #5
-	475 1965 1966 2420 2444
+	475 1965 1966 2420
 }
 
 volga_area = { #3
@@ -2659,7 +2659,7 @@ irkutsk_area = { #5
 }
 
 perm_area = { #5
-	1077 1755 1963 1964 4129
+	1077 1963 1964 4129 2444
 }
 
 balchasj_area = { #5

@@ -1,0 +1,23 @@
+#1012 - suma
+
+owner = 
+controller = 
+culture = kyushuan
+religion = shinto
+capital = "Kagima"
+trade_goods = 
+hre = no
+base_tax = 3
+base_manpower = 3
+base_production = 3
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1542.1.1 = { discovered_by = POR }
+
+1550.1.1 = { fort_15th = yes } # U Castle, the capital of the Shimazu n
