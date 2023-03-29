@@ -124,7 +124,7 @@ age_of_discovery = {
 		}
 		ab_colony_boost_development = {
 			modifier = {
-				development_cost = -0.1
+				global_colonial_growth = 100
 			}
 			ai_will_do = {
 				factor = 0

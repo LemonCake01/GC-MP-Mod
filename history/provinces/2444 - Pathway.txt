@@ -2,7 +2,7 @@
 
 owner = KAZ
 controller = KAZ
-culture = chihan
+culture = uralic
 religion = confucianism
 capital = "Pathway"
 trade_goods = chinaware

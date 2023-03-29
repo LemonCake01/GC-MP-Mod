@@ -1,0 +1,24 @@
+master_of_africa = {
+	potential = {
+		ai = no
+	}
+
+	trigger = {
+		2257 = {  
+				owned_by = ROOT
+				controlled_by = ROOT
+		}
+		1132 = {  
+				owned_by = ROOT
+				controlled_by = ROOT
+		}
+		2932 = {  
+				owned_by = ROOT
+				controlled_by = ROOT
+		}
+	}
+
+	global_trade_goods_size_modifier = 0.25
+	trade_efficiency = 0.2
+	land_forcelimit_modifier = 0.2
+}

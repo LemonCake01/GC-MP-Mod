@@ -22,15 +22,32 @@ union = {
 	end_date = 1516.1.23
 }
 
-# Castille-Burgundy Union - Felipe I/Philippe IV
-union = {
+# Mod Balance 1
+alliance = {
 	first = CAS
-	second = BUR
-	start_date = 1504.11.27
-	end_date = 1506.9.25
+	second = ARA
+	start_date = 1443.1.11
+	end_date = 1500.1.11
+}
+
+# Mod Balance 1
+vassal = {
+	first = CAS
+	second = NAV
+	start_date = 1443.1.11
+	end_date = 1500.1.11
 }
 
 # Aragon and Sicily, Alfons V/Alfonso I
+
+alliance = {
+	first = ARA
+	second = HAB
+	start_date = 1495.3.31
+	end_date = 1499.1.1
+}	
+
+
 
 # Aragon and Austria (League of Venice)
 alliance = {
