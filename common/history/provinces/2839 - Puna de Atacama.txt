@@ -23,7 +23,7 @@ native_hostiess = 1
 	controller = INC
 	add_core = INC
 	religion = inti
-	trade_goods = t
+	trade_goods = salt
 	is_city = yes
 }
 1537.1.1 = {

@@ -50,9 +50,9 @@ change_estate_land_share = {
 	monarch = {
 		name = "Abdalhaqq II"
 		dynasty = "Marinid"
-		adm = 0
-		dip = 2
-		mil = 1
+		adm = 2
+		dip = 4
+		mil = 3
 	}
 	capital = 343 # Fez
 	set_estate_privilege = estate_nobles_strong_duchies

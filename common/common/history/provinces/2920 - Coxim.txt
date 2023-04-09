@@ -1,0 +1,25 @@
+# - Coxim
+
+culture = u
+discovered_by = south_aican
+religion = anim
+capital = "Coxim"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostiess = 7
+
+1727.3.4 = {
+	discovered_by = POR
+	add_core = POR
+	owner = POR
+	controller = POR
+	is_city = yes
+	culture = portugese
+	religion = catholic
+	trade_goods = 
+} # Ranrs from São Paulo occupied the region in search of more productive land

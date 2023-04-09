@@ -4,6 +4,58 @@
 
 # This one is the first for the case that some country manages to become fully Norse.
 
+SUA_ideas = {
+	start = {
+		discipline = 0.05
+		war_exhaustion = -0.2
+	}
+
+	bonus = {
+		all_power_cost = -0.1
+		possible_policy = 1
+	}
+	
+	trigger = {
+		OR = {
+				tag = SUA
+				tag = SUB
+				tag = SUC
+			}
+	}
+	free = yes		#will be added at load.
+	
+	superpower_army = {
+		infantry_power = 0.20
+		cavalry_power = 0.20
+		artillery_power = 0.20
+	}
+	superpower_traditions = {
+		army_tradition = 1
+		army_tradition_decay = -0.01
+	}
+	superpower_pride = {
+		land_morale = 0.2
+		morale_damage_received = -0.05
+	}
+	superpower_navy = {
+		global_naval_engagement_modifier = 0.25
+		naval_morale = 0.2
+	}
+	superpower_economy = {
+		global_trade_goods_size_modifier = 0.2
+		production_efficiency = 0.2
+	}
+	superpower_administration = {
+		governing_capacity_modifier = 0.5
+		administrative_efficiency = 0.1
+	}
+	superpower_innovation = {
+		idea_cost = -0.2
+		technology_cost = -0.1
+		development_cost = -0.2
+	}
+}
+
 norse_ideas = {
 	start = {
 		land_morale = 0.15	
@@ -5742,8 +5794,8 @@ MPC_ideas = {
 
 INC_ideas = {
 	start = {
-		idea_cost = -0.1
-		land_forcelimit_modifier = 0.2
+		idea_cost = 1
+		technology_cost = 0.5
 	}
 	bonus = {
 		free_leader_pool = 1

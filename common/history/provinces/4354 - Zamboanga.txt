@@ -19,7 +19,7 @@ discovered_by = nese
 	add_core = MGD
 	is_city = yes
 	religion = sunni
-	trade_goods = tropical_wood
+	trade_goods = saltropical_wood
 }
 1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
 1569.1.1 = {	

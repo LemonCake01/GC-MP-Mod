@@ -1,0 +1,48 @@
+culture = i
+religion = em
+capital = "Kennebec"
+trade_goods = unwn
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 3
+native_size = 15
+native_ferocity = 3
+native_hostiess = 8
+tribal_owner = 
+
+
+discovered_by = north_aican
+
+1604.1.1 = { discovered_by = FRA } # uel de mplain
+1605.1.1 = { discovered_by = ENG } # George Waymouth
+
+1632.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	is_city = yes
+	trade_goods = nl_supplies
+	culture = english
+	religion = protent
+} # Founding of Casco
+1707.5.12 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+} 
+1764.7.1 = {
+	culture = aican
+	unrest = 6
+} # Growing unrest
+1776.7.4 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+} # Deran of edence
+1782.11.1 = {
+	remove_core = GBR 
+	unrest = 0
+} # Preliminary articles of peace, the British recognized Aican edence

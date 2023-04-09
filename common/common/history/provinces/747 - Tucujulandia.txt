@@ -1,0 +1,31 @@
+#747 - Tucujulandia
+
+culture = jiro
+discovered_by = south_aican
+religion = anim
+capital = "pa"
+trade_goods = unwn
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+
+1500.1.1 = { discovered_by = CAS discovered_by = POR } # Pinzón, Pedro Álvares ral
+1516.1.23 = { discovered_by = SPA }
+
+1637.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	culture = portugese
+	religion = catholic
+	trade_goods = fish
+} # Gred to to Mel Parent as an herediy capncy
+1688.1.1 = { capital = "Macapá" }

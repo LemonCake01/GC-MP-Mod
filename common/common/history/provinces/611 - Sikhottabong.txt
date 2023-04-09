@@ -1,0 +1,34 @@
+#611 - Sikhag
+
+owner = 
+controller = 
+culture = lao
+religion = anim
+capital = "Sikhag"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = 
+add_core = VIE
+
+
+discovered_by = nese
+discovered_by = ian
+
+
+1483.1.1 = { add_core =  } # Vietnamese Invon
+1535.1.1 = { discovered_by = POR }
+1694.1.1 = { add_core = TOK } # Vietnamese Invenn
+1707.1.1 = {
+	owner = VIE
+	controller = VIE
+	add_core = VIE
+	remove_core = 
+	remove_core = TOK
+	remove_core = 
+} # Lan Xang dered itself edent, partined into three kingdoms; Vientiane,  & Luang Prabang
+1758.1.1 = { unrest = 5 } # Rebellion
+1759.1.1 = { unrest = 0 }

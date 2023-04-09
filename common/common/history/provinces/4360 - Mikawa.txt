@@ -1,0 +1,26 @@
+#4360 - awa
+
+owner = 
+controller = 
+culture = oku
+religion = shinto
+capital = "Okazaki"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_manpower = 3
+base_production = 2
+is_city = yes
+add_core = 
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+discovered_by = 
+
+1549.4.3 = { owner = IMG controller = IMG add_core = IMG }
+1560.6.12 = { owner =  controller =  remove_core = IMG }
+1590.8.10 = { add_core = IKE owner = IKE controller = IKE remove_core =  }
+1600.9.13 = { owner =  controller =  add_core =  remove_core = IKE }
+# Tokugawa gunate founded

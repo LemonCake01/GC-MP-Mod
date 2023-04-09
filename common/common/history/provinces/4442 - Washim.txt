@@ -1,0 +1,88 @@
+#4442 - Washim
+
+owner = 
+controller = 
+culture = marathi
+religion = huism
+capital = "Washim"
+trade_goods = cloth
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = 
+add_core = BRR
+discovered_by = no_group
+discovered_by = ian
+discovered_by = muslim
+discovered_by = nese
+discovered_by = ottoman
+
+1490.1.1 = {
+	owner = BRR
+	controller = BRR
+	remove_core = 
+}# The Breakup of the mani sulate
+1498.1.1 = { discovered_by = POR }
+1572.1.1 = { controller = AHM } # captured by Ahmednagar
+1574.1.1 = {
+	owner = AHM
+	add_core = AHM
+} # captured by Ahmednagar
+1595.1.1 = { controller = MUG } # captured by Mughal Empire
+1596.1.1 = {
+	owner = MUG
+	add_core = MUG
+} # captured by Mughal Empire
+1615.1.1 = { controller = AHM } # Ahmednagar i-Mughal Caign
+1622.1.1 = {
+	controller = MUG
+	add_core = MUG
+	remove_core = AHM
+} # Ahmednagar i-Mughal Caign
+1622.3.1 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Khurrams Facn"
+		leader = "Shah Jahan Timurid"
+	}
+} #uld be named Khurram at this point
+1622.8.15 = {
+	controller = MUG
+	revolt = { }
+} #Khurram flees on into Ahmednagar, Golconda and then ssa. Evenlly acks Mughal gal.
+#1636.1.1 = { capital = "Illpur" } #Mughal re-organizan of Den into 4 sus
+1646.1.1 = { add_core = MUG }
+1650.1.1 = { add_core = MAR }
+1658.1.15 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Aurangzeb's Facn"
+		leader = "Aurangzeb Alamgir Timurid"
+	}
+} # Aurangzeb joins in rebelion against his father
+1658.6.8 = {
+	controller = MUG
+	revolt = { }
+} #Shah Jahan surrenders and bees the prier of his  Aurangzeb
+1712.1.1 = { add_core = DEC }	#Viceroyy of the Den
+1724.1.1 = {
+	owner = DEC
+	controller = DEC
+	remove_core = MUG
+} # f Jah dered himself Nizam-al-k
+1752.1.1 = {
+	owner = MAR
+	controller = MAR
+	add_core = MAR
+}
+1804.1.1 = {
+	owner = DEC
+	controller = DEC
+	remove_core = MAR
+}

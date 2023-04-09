@@ -1,0 +1,16 @@
+owner = 
+controller = 
+add_core = 
+culture = a
+religion = shamanism #Fetishism
+capital = "undwe"
+trade_goods = livestock
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+discovered_by = central_african
+
+1600.1.1 = { owner =  controller =  add_core =  }
+1700.1.1 = { owner =  controller =  add_core =  }

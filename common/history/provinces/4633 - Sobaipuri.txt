@@ -20,7 +20,7 @@ discovered_by = north_aican
 	controller = SPA
 	add_core = SPA
 	remove_core = 
-	trade_goods = t
+	trade_goods = salt
 	religion = catholic
 	culture = castillian
 } # First permanent Sish settlers

@@ -1,0 +1,31 @@
+# No previous file for tin
+
+culture = ek
+owner = 
+controller = 
+add_core = 
+is_city = yes
+religion = uatl
+capital = "tin"
+trade_goods = dyes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = mesoaican
+
+1518.1.1 = { add_core =  }
+1521.8.13 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	religion = catholic
+} # Fall of Tenoin. tin, as ec allies, fall under Sish influence. 
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican  of edence

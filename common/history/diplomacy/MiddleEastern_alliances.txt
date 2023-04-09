@@ -238,9 +238,23 @@ vassal = {
 } 
 
 # Cyprus, a Mamluk tributary
-guarantee = {
+vassal = {
 	first = MAM
 	second = CYP
+	start_date = 1444.1.1
+	end_date = 1489.1.1
+}
+
+vassal = {
+	first = MAM
+	second = KAR
+	start_date = 1444.1.1
+	end_date = 1489.1.1
+}
+
+vassal = {
+	first = MAM
+	second = DUL
 	start_date = 1444.1.1
 	end_date = 1489.1.1
 }

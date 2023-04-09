@@ -1,0 +1,33 @@
+# - Rio Grande do 
+
+culture = rani
+discovered_by = south_aican
+religion = anim
+capital = "Rio Grande"
+trade_goods = unwn
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostiess = 5
+
+1530.1.1 = { discovered_by = POR } # Estie
+1737.2.19 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	culture = portugese
+	religion = catholic
+	trade_goods = tobacco
+}
+1763.4.1 = {
+	owner = SPA
+	controller = SPA
+}
+1767.1.1 = {
+	owner = POR
+	controller = POR
+}

@@ -23,12 +23,12 @@ discovered_by = east_african
 extra_cost = 15
 
 add_permanent_province_modifier = {
-	name = sunnile_esry_modifier
-	duran = -1
+	name = nile_estuary_modifier
+	duration = -1
 }
 add_permanent_province_modifier = {
-	name = granary_of_the_mediranean
-	duran = -1
+	name = granary_of_the_mediterranean
+	duration = -1
 }
 
 1517.1.1 = {

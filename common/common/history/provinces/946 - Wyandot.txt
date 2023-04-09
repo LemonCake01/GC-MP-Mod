@@ -1,0 +1,77 @@
+#946 - Wyat
+
+culture = miami
+religion = em
+capital = "Wyat"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 4
+
+
+
+discovered_by = north_aican
+
+1444.1.1 = { tribal_owner =  }
+1650.1.1 = {
+ 	owner = HUR
+	controller = HUR
+	add_core = HUR
+	is_city = yes	
+	culture = huron
+} #Fleeing from the Beaver s
+1656.1.1 = {
+ 	owner = IRO
+	controller = IRO
+	add_core = IRO
+	culture = iroquois 
+} #Driven off by Iroquois raids
+1679.1.1 = { discovered_by = FRA discovered_by = ENG }
+1701.8.14 = {
+	owner = HUR
+	controller = HUR
+	remove_core = IRO
+	is_city = no
+	culture = huron 
+} #Vast areas left deserted af the Beaver s and the Iroquois withdrawal
+1707.5.12 = { discovered_by = GBR }
+1753.8.3 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	culture = cosmopolitan_french
+	is_city = yes
+	religion = catholic
+	trade_goods = fur
+} # French occupy northern Ohio
+1763.2.10 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = FRA
+	culture = english
+	religion = protent
+} # Treaty of Paris - ceded to Brin, France gave up its im
+1763.3.1 = { unrest = 6 } # Native discontent with the British rule
+1763.5.1 = { unrest = 0 revolt = { type = nanalist_rebels size = 0 } controller = REB } # Pontiac's 
+1763.10.9 = {
+	owner = HUR
+	controller = HUR
+	add_core = HUR
+	remove_core = GBR
+	culture = huron
+	religion = em
+} # Royal proion, Bri recognize native lands (as protectorates)
+1785.1.1 = { unrest = 5 } # Northwest ian 
+1794.1.1 = { unrest = 0 } # hony Wayne's victory at Fal Timbers
+1807.11.17 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	culture = aican
+	religion = protent 
+} #Treaty of Detroit cedes much of the region

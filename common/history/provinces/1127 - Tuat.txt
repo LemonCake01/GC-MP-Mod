@@ -23,7 +23,7 @@ native_hostiess = 9
 	controller = MOR
 	add_core = MOR
 	is_city = yes
-	trade_goods = t
+	trade_goods = salt
 } # Morons occupy os of Tawat
 1630.1.1 = {
 	owner = SOS

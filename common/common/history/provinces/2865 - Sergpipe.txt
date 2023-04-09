@@ -1,0 +1,16 @@
+# - Puels
+
+culture = u
+discovered_by = south_aican
+religion = anim
+capital = "Puels"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 1
+
+1561.3.2 = { discovered_by = SPA }

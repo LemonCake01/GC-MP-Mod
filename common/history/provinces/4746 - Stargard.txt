@@ -1,8 +1,8 @@
 # 4746 - rgard
 
-owner = STE
-controller = STE
-add_core = STE
+owner = BRA
+controller = BRA
+add_core = BRA
 culture = pommeranian
 religion = catholic
 hre = yes

@@ -1,0 +1,39 @@
+# No previous file for Tian
+
+culture = u
+owner = 
+controller = 
+add_core = 
+is_city = yes
+religion = uatl
+capital = "Tian"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+add_local_auomy = 50
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = mesoaican
+
+
+1460.1.1 = { 
+	owner = 
+	controller = 
+	add_core = 
+	} #Estied: ascan exn
+1523.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	religion = catholic
+	unrest = 5
+}
+1541.1.1 = { culture = castillian }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX }
+

@@ -1,0 +1,27 @@
+# No previous file for awa
+
+owner = 
+controller = 
+add_core = 
+is_city = yes
+culture = iseet
+religion = em
+capital = "awa"
+trade_goods = unwn
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostiess = 2
+
+
+
+discovered_by = north_aican
+
+1609.1.1 = { discovered_by = FRA } # uel de mplain
+1629.1.1 = { discovered_by = ENG }
+
+##Still disputed between USA and Brin at e end. In reality was held by Brayons, Aian settlers, but here repreted by i tag)
+1707.5.12 = { discovered_by = GBR }

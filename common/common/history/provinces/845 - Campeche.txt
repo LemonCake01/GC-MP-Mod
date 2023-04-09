@@ -1,0 +1,29 @@
+#845 - Campe
+
+owner = 
+controller = 
+culture = yucatec 
+religion = mesoaican_religion
+capital = "Campe" 
+trade_goods = sugar 
+hre = no 
+base_tax = 4 
+base_production = 4
+base_manpower = 1 
+is_city = yes
+add_core = 
+
+
+
+discovered_by = mesoaican
+
+1517.1.1 = { discovered_by = SPA }
+
+1542.1.23 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	religion = catholic
+} # the lord of Mani submits peacefully to the Sish and converts, easn Yucn falls
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican  of edence

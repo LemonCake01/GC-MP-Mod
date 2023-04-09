@@ -1,0 +1,51 @@
+#567 - Sylhet
+
+owner = 
+controller = 
+culture = gali
+religion = huism
+capital = "Sylhet"
+trade_goods = con
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = 
+discovered_by = ian
+discovered_by = nese
+discovered_by = no_group
+
+
+1576.7.12 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+	unrest = 8
+} #Mughal eover, but the land remains in the hand of Afghan and Hu lawners with inests vested against the Mughal dynasty and a deep hatred for the Mughal te
+1587.1.1 = {
+	unrest = 0
+} # Integrated into Mughal Empire
+1622.10.1 = {
+	controller = REB
+	revolt = {
+		type = pretender_rebels size = 0
+		name = "Khurrams Facn"
+		leader = "Shah Jahan Timurid"
+	}
+} #With some aid from Golconda Khurrams rebelion against his father contin
+1624.1.1 = {
+	controller = MUG
+	revolt = { }
+} #Khurram is defeated and is sed away by Mughal forces and rebelious Zamars. es refuge in Ahmednagar and evenlly surrenders on ms dictated by Nur Jahan
+1627.1.1 = { discovered_by = POR }
+1707.3.15 = {
+	owner = 
+	controller = 
+	remove_core = MUG
+}
+1760.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+} # Given to GBR by  Qm

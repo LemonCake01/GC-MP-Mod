@@ -3,6 +3,7 @@
 owner = FRA
 controller = FRA
 add_core = FRA
+add_core = ENG
 capital = "Amiens"
 is_city = yes
 culture = cosmopolitan_french
@@ -24,7 +25,6 @@ discovered_by = ottoman
 	owner = BUR
 	controller = BUR
 	add_core = BUR
-	remove_core = FRA
 } # Treaty of Arras
 1463.1.1 = {
 	owner = FRA

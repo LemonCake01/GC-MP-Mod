@@ -1,0 +1,28 @@
+#1018 - Izumo
+
+owner = 
+controller = 
+culture = jnese
+religion = shinto
+capital = "sue"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = 
+fort_15th = yes #G Castle
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1486.1.1 = { fort_15th = yes } # Gan T Castle
+1542.1.1 = { discovered_by = POR }
+1558.1.1 = { add_core = MRI }
+1566.11.28 = { owner = MRI controller = MRI remove_core =  }
+1566.11.28 = { fort_15th = no } # Gan T Castle has fal
+1600.9.13 = { add_core =  owner =  controller =  remove_core = MRI }
+1639.8.4 = { trade_goods = fish } # oku reduces sword demand

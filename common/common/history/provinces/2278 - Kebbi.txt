@@ -1,0 +1,49 @@
+# No previous file for Kebbi
+
+owner = 
+controller = 
+add_core = 
+add_core = HAU
+is_city = yes
+culture = hausa 
+religion = shamanism #Fetishism
+capital = "Sorko"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+native_size = 40
+native_ferocity = 4
+native_hostiess = 9
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+1516.1.1 = {
+	owner = HAU
+	controller = HAU
+	capital = "Surame"
+} #Muhadu Kenta rebels against ghai 
+1533.1.1 = { unrest = 6 } #ghai raids in empt to regain control of region
+1534.1.1 = { unrest = 0 } #ghai raids defeated
+1553.1.1 = { unrest = 6 } #ghai raids in empt to regain control of region
+1554.1.1 = { unrest = 0 } #ghai raids defeated
+1562.1.1 = { unrest = 8 } #Borno invon in wake of dispute over control of Agades
+1592.1.1 = { unrest = 6 discovered_by = MOR add_core = MOR } #Moron raids devate region
+1595.1.1 = { unrest = 2 } #Moron retreat
+1618.1.1 = { add_core =  remove_core = MOR } #Morons no longer appoint governors, local Morons, the Arma, rule on their own
+1639.1.1 = { unrest = 4 } #raids by the Arma of Timbu
+1674.1.1 = { unrest = 7 } #raids by E of Zaria
+1721.1.1 = { unrest = 8 capital = "Kebbi" } #reg invons under leadership of Azbin Sulate break er of Kebbi
+ #Decline of Kebbi in wake of Azbin invons and nges in trade routes
+1790.1.1 = { unrest = 3 } #amic revival led by Usman dan Fodio begins to lge Hausa ruler legitimacy
+1804.1.1 = {
+	owner = SOK
+	controller = SOK
+	add_core = SOK
+	unrest = 0
+} # The Fulani Empire
+1810.1.1 = { remove_core = HAU } # The end of the Fulani 

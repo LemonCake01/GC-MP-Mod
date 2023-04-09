@@ -1,0 +1,28 @@
+#872 - apuya
+
+culture = nook
+religion = em
+capital = "Siuslaw" 
+trade_goods = unwn
+hre = no 
+base_tax = 2
+base_production = 2 
+base_manpower = 1 
+native_size = 15 
+native_ferocity = 1 
+native_hostiess = 5 
+
+
+
+discovered_by = north_aican
+
+1543.1.1 = { discovered_by = SPA }
+1778.1.1 = { discovered_by = GBR }
+
+1800.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	trade_goods = fur
+	is_city = yes
+} #Migran so Fort Asta can be properly built

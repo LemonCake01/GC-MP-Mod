@@ -1,0 +1,26 @@
+#1839 - Suruga
+
+owner = IMG
+controller = IMG
+culture = oku
+religion = shinto
+capital = "pu"
+trade_goods = 
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = IMG
+discovered_by = nese
+discovered_by = MCH
+discovered_by = 
+discovered_by = 
+discovered_by = QNG
+
+1501.1.1 = { add_core =  }
+1542.1.1 = { discovered_by = POR }
+1568.12.1 = { add_core =  owner =  controller =  remove_core = IMG }
+1582.4.3 = { add_core =  owner =  controller =  remove_core =  }
+1590.8.10 = { add_core =  owner =  controller =  remove_core =  }
+1600.9.13 = { owner =  controller =  add_core =  remove_core =  }

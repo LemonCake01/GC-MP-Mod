@@ -1,0 +1,68 @@
+#4428 - Mudgal
+
+owner = 
+controller = 
+culture = nada
+religion = huism
+capital = "Mudgal"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = BIJ
+add_core = 
+fort_15th = yes #Mudgal
+discovered_by = ian
+discovered_by = no_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nese
+
+
+1378.1.1 = {
+	controller = 
+	owner = 
+}
+1428.1.1 = { add_core =  }
+1493.1.1 = {
+	owner = 
+	controller = 
+} #Given to  by  in exnge for protecn against Bijapur
+1498.1.1 = { discovered_by = POR }
+1503.1.1 = { owner = BIJ controller = BIJ } #Conquered by Bijapur
+1511.1.1 = { controller =  } # Conquered by ayanagar
+1512.1.1 = { owner =  } # Conquered by ayanagar
+1515.1.1 = {
+	controller = BIJ
+	owner = BIJ
+} #Falls in Bijapuri hands while  is caigning in ssa
+1521.1.1 = { controller =  }
+1522.1.1 = { owner =  }
+1529.1.1 = {
+	owner = BIJ
+	controller = BIJ
+} #Adil Shahi forces seizes Mudgal and Raur forts during the infighting af Kria Rayas death
+1534.8.27 = {
+	owner = 
+	controller = 
+} #Adil Shahi nobility revolt against their new ruler while ayanagara forces seize the Raur doab
+1565.1.26 = { controller = BIJ } #Lost by ayanagar in 1565
+1565.7.1 = {
+	owner = BIJ
+	remove_core = 
+} #Lost by ayanagar
+1685.1.1 = { controller = MUG } # Conquered by the Mughal emperor Aurangzeb
+1686.1.1 = {
+	owner = MUG
+	add_core = MUG
+	remove_core = 
+	remove_core = BIJ
+} # Conquered by the Mughal emperor Aurangzeb
+1712.1.1 = { add_core = DEC }	#Viceroyy of the Den
+1724.1.1 = {
+	owner = DEC
+	controller = DEC
+	remove_core = MUG
+} # f Jah dered himself Nizam-al-k

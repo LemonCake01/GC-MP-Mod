@@ -1,0 +1,41 @@
+#2088 - Umot
+
+owner = 
+controller = 
+culture = shi
+religion = sunni
+capital = "Umot"
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = 
+add_rajp_or_marathas_or_nobles_effect = yes
+discovered_by = ian
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = no_group
+discovered_by = nese
+
+1498.1.1 = { discovered_by = POR }
+
+1544.1.1 = {
+	owner = 
+	controller = 
+} # Sur Exnism
+1545.1.1 = {
+	owner = 
+	controller = 
+} # Sher Shah dies
+1591.1.1 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+} # Integrated into Mughal Empire
+1739.1.1 = {
+	owner =  
+	controller = 
+	remove_core = MUG
+}

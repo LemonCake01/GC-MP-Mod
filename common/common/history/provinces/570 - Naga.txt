@@ -1,0 +1,37 @@
+#570 - Naga
+
+owner = 
+controller = 
+culture = n
+religion = huism
+capital = "Dimapur"
+trade_goods = tropical_wood
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = 
+
+
+
+discovered_by = ian
+discovered_by = no_group
+discovered_by = nese
+
+
+1526.2.1 = { controller =  }
+1531.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+}
+1581.1.1 = { add_core =  }
+1760.1.1 = { discovered_by = GBR }
+1770.4.11 = { unrest = 8 } # Moama rebellion
+1792.11.24 = { unrest = 0 }
+1822.7.1 = {
+	controller = 
+	owner = 
+}
+1826.1.1 = { owner =  controller =  } #imed by British but de facto edent

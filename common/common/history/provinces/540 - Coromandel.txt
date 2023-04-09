@@ -1,0 +1,69 @@
+#540 - Coromandel 
+
+owner = 
+controller = 
+culture = tamil
+religion = huism
+capital = "Kuddaluru"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_vaisyas_or_burghers_effect = yes
+add_core = 
+add_core = 
+add_core = GNG
+add_local_auomy = 25
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = no_group
+discovered_by = nese
+extra_cost = 16
+center_of_trade = 2
+
+1405.1.1 = { discovered_by = nese }
+1498.1.1 = { discovered_by = POR }
+1543.1.1 = {
+	controller = REB
+	revolt = {
+	size = 0
+	type = nanalist_rebels
+	}
+}
+1548.1.1 = { controller =  revolt = { } }
+1565.1.26 = {
+	owner = GNG
+	controller = GNG
+} # The ayanagar empire collapses
+1649.1.1 = { controller = BIJ } # Conquered by Bijapur
+1649.12.1 = {
+	owner = BIJ
+	add_core = BIJ
+	remove_core = KRK
+} # Conquered by Bijapur
+1674.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	capital = "Ponderry"
+	add_to_trade_y = FRA
+	add_trade_y_investment = {
+		investment = y_de
+		investor = FRA
+	}
+	add_trade_y_investment = {
+		investment = permanent_quars
+		investor = FRA
+	}
+	add_trade_y_investment = {
+		investment = settlements
+		investor = FRA
+	}
+}
+1761.1.16 = { controller = GBR } # Third Catic 
+1763.2.10 = {
+	controller = FRA
+} # Returned to France

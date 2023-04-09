@@ -1,0 +1,58 @@
+#667 - ngzhou
+
+owner = 
+controller = 
+add_core = 
+culture = cse
+religion = confunism
+capital = "Con"
+trade_goods = incense
+hre = no
+base_tax = 12 
+base_production = 12
+base_manpower = 3
+is_city = yes
+add_core = YUE
+fort_15th = yes #More than 1 Weisuo
+discovered_by = nese
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = no_group
+extra_cost = 34
+center_of_trade = 3
+add_permanent_province_modifier = {
+	name = pearl_esry_modifier
+	duran = -1
+}
+
+1514.1.1 = { discovered_by = POR }
+
+1647.4.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1648.4.15 = {
+	controller =  
+	owner = 
+}
+1650.11.11 = {
+	owner = QNG
+	controller = QNG
+}
+1659.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+} # The Qing Conqt of na finishes
+1662.4.1 = {
+	owner = CZH
+	controller = CZH
+	add_core = CZH
+} # Three Feudates
+1681.10.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

@@ -1,0 +1,3 @@
+discovered_by = north_aican
+
+1784.1.1 = { discovered_by = RUS } # Vitus Bng

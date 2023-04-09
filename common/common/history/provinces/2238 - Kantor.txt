@@ -1,0 +1,24 @@
+# No previous file for tor
+
+owner = 
+controller = 
+add_core = 
+add_core = KBU #Subjet province within the empire
+is_city = yes
+culture = ebian 
+religion = shamanism #Fetishism
+capital = "Sutuco"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_auomy = 50
+
+1537.1.1 = {
+	owner = KBU
+	controller = KBU
+	add_core = KBU
+	remove_core = 
+} #bu deres edece from i

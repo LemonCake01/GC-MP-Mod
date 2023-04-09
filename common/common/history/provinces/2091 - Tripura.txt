@@ -1,0 +1,23 @@
+#2091 - Tripura
+
+owner = 
+controller = 
+culture = n
+religion = huism
+capital = "Upur"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = 
+
+
+
+discovered_by = ian
+discovered_by = no_group
+discovered_by = nese
+
+1760.1.1 = { discovered_by = GBR }
+

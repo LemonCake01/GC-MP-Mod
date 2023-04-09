@@ -863,7 +863,7 @@ arkhangelsk_area = { #4
 }
 
 bashkiria_area = { #5
-	475 1965 1966 2420 2444
+	475 1965 1966 2420
 }
 
 volga_area = { #3

@@ -1,0 +1,33 @@
+#2031 - Morasanadu
+
+owner = 
+controller = 
+culture = nada
+religion = huism
+capital = "Devarayanagara"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = 
+add_core = 
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = no_group
+discovered_by = nese
+
+1498.1.1 = { discovered_by = POR }
+1638.1.1 = {
+	owner = BIJ
+	controller = BIJ
+	remove_core = 
+}
+1685.1.1 = { controller = MUG } # Conquered by the Mughal emperor Aurangzeb
+1686.1.1 = {
+	owner = 	#Beaten by the Mughals and d to ore
+	controller = 
+	capital = "Balore"
+}

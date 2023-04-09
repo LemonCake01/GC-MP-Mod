@@ -42,7 +42,7 @@ base_production = 15 } # Relieu
 1650.1.1 = {
 	add_permanent_province_modifier = {
 		name = "birthpe_of_mfactes"
-		duran = -1
+		duration = -1
 	}
 }
 1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longuele, the beging of the Second Fronde.

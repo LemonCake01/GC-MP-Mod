@@ -26,7 +26,7 @@ discovered_by = north_aican
 	owner = GBR
 	controller = GBR
 	add_core = GBR
-	trade_goods = tobacco
+	trade_goods = saltobacco
 	culture = english
 	religion = protent 
 }

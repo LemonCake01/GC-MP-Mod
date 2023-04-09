@@ -1,0 +1,61 @@
+#2059 - pi
+
+owner = 
+controller = 
+culture = vhyan
+religion = huism
+capital = "pi"
+trade_goods = cloth #Cets
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_core = 
+add_core = 
+add_core = 
+discovered_by = ian
+discovered_by = no_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nese
+
+1479.1.1 = { controller =  } # Conquered by Delhi
+1480.1.1 = { owner =  } # Conquered by Delhi
+1526.4.1 = { controller = TIM } #Conquered by Babur
+1526.4.21 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+	remove_core = 
+} # Ble of i
+1540.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+} # Sher Shah Conquers Delhi
+1553.1.1 = {
+	owner = 
+	controller = 
+	remove_core = 
+} #Death of am Shah Sur, Suri empire split
+1555.7.23 = {
+	owner = MUG
+	controller = MUG
+} # Humn Returns
+1565.1.1 = { controller = REB revolt = { type = noble_rebels } }	#Revolt of Uzbek manders
+1566.6.1 = { controller = MUG revolt = { } }
+1690.1.1 = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }
+1737.1.1 = {
+	owner = 
+	controller = 
+	add_core = 
+	remove_core = MUG
+}
+1801.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = 
+}

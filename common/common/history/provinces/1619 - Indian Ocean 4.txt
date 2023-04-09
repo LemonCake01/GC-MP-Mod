@@ -1,0 +1,13 @@
+
+discovered_by = east_african
+
+discovered_by = ian
+discovered_by = muslim
+
+
+
+
+
+1413.1.1 = { discovered_by =  }
+1498.1.1 = { discovered_by = POR }
+

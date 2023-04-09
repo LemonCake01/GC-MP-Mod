@@ -22,7 +22,7 @@ discovered_by =
 
 add_permanent_province_modifier = {
 	name = ise_grand_shrine
-	duran = -1
+	duration = -1
 }
 
 1542.1.1 = { discovered_by = POR }

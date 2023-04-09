@@ -1,0 +1,42 @@
+#1183 - Inhane
+
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Inhane"
+trade_goods = unwn
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+native_size = 30
+native_ferocity = 4
+native_hostiess = 9
+discovered_by = east_african
+discovered_by = central_african
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = 
+discovered_by = 
+extra_cost = 8
+center_of_trade = 1
+
+
+1498.1.15 = { discovered_by = POR } #Vasco Da a
+#1560.1.1 - Portuge tradepost eblished
+1727.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	is_city = yes
+	base_manpower = 1
+	trade_goods = ivory
+} #Permanent Portuge outpost eblished
+1752.1.1 = { unrest = 7 } #Tga migrans debilize region
+1755.1.1 = { unrest = 0 }
+1760.1.1 = { trade_goods = slaves } #Rise of plans in carene Is. nges trade ns

@@ -15,7 +15,7 @@ add_core =
 
 add_permanent_province_modifier = {
 	name = eald_buddha
-	duran = -1
+	duration = -1
 }
 
 discovered_by = nese

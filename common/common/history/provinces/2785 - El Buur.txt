@@ -1,0 +1,29 @@
+#2785 - El r
+
+owner = 
+controller = 
+add_core = 
+add_core = HOB
+culture = soi
+religion = sunni
+capital = "El r"
+trade_goods = iron
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = east_african
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1526.1.1 = { owner = ADA controller = ADA } #Ah Gran secures control over Marehan
+1550.1.1 = { discovered_by = TUR }
+
+1555.1.1 = { owner =  controller =  } #Northern part of province no longer conrolled by ADA
+1650.1.1 = { owner = HOB controller = HOB remove_core =  }

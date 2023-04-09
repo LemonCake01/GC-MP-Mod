@@ -1,0 +1,37 @@
+# 189 Lothringen - Principal cities: Nancy
+
+owner = LOR
+controller = LOR 
+capital = "Nancy"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = iron
+base_manpower = 5
+add_core = LOR
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1467.6.15 = { add_core = BUR } # rles the Bold ascends and lays ims on Lorraine
+1475.11.30 = { owner = BUR controller = BUR unrest = 5 } # rles the Bold annexes Lorraine
+1476.1.1 = { revolt = { type = nanalist_rebels size = 1 } controller = REB } # Lorraine revolts against rles the Bold during the Burgundian-Swiss 
+1477.1.5 = { revolt = {} owner = LOR controller = LOR remove_core = BUR unrest = 0 } # rles the Bold dies in the Siege of Nancy and Lorraine is re-eblished
+1635.5.1 = { controller = FRA }
+1636.8.15 = { controller = LOR } # Habsburg forces rge North Easn France, Lorraine liberated
+1636.10.20 = { controller = FRA } # Bernhard of Saxe-Weimar defeats the invaders and gradually pushes them back
+1641.1.1 = { controller = LOR } # rles III restored
+1670.1.1 = { owner = FRA controller = FRA add_core = FRA } # France back in control - Louis XIV lays ims through the mbers of Reunion
+1679.9.20 = { owner = LOR controller = LOR } # Treaty of Rijswijck (End of the  of the Grand Alliance): Lorraine restored
+1702.1.1 = { controller = FRA } # Back to France *yawn* in the Sish  of Succesn
+1714.1.1 = { controller = LOR } # Leopold restored when the Sish Succesn Crisis es to an end
+1766.2.23 = { owner = FRA controller = FRA } # Death of Duke naus, Lorraine ceases to exist
+1806.7.12 = { hre = no } # The Holy Roman Empire is disved

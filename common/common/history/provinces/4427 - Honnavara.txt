@@ -1,0 +1,47 @@
+#4427 - Honnra
+
+owner = 
+controller = 
+culture = nada
+religion = huism
+capital = "Honnra"
+trade_goods = spices
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_brans_or_rch_effect = yes
+add_core = 
+discovered_by = no_group
+discovered_by = ian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nese
+discovered_by = east_african
+
+1405.1.1 = { discovered_by = nese }
+1444.1.1 = { add_core =  }
+1469.1.1 = { controller =  } # en by manis
+1470.1.1 = { owner =  } # en by manis
+1490.1.1 = {
+	owner = BIJ
+	controller = BIJ
+	remove_core = 
+	
+} # The Breakup of the mani sulate
+1498.1.1 = { discovered_by = POR }
+1535.1.1 = { add_core = POR }
+1650.1.1 = { add_core = MAR }
+1686.1.1 = {
+	owner = KLN
+	controller = KLN
+	add_core = KLN
+	capital = "Kar"
+}
+1783.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+}
+1818.6.3 = { remove_core = MAR }

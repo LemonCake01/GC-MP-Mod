@@ -1,0 +1,37 @@
+#Jämnd+Härjeda
+
+owner = NOR
+controller = NOR
+culture = norwegian # They were aclly Jämts - the unique bd of Swedish, Norwegian and local tendencies
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Frösön"
+add_local_auomy = 25
+is_city = yes
+add_core = NOR
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+1527.6.1 = { religion = protent}
+1531.11.5 = { unrest = 10 } # The Return of Christian II
+1532.7.15 = { unrest = 0 } # The Capture of Christian II
+1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handfästningen'(Unwn date)
+1564.2.10 = { controller = SWE } # Nordic Seven-years 
+1570.11.18 = { controller = DAN } # The Peace at Roskilde in 1570
+1611.8.1 = { controller = SWE } # The  of mar (Unwn date)
+1613.1.20 = { controller = DAN } # The Peace of Knäred
+1644.2.1 = { controller = SWE } # Torstenss -Captured by Herman Fleng (Unwn date)
+1644.8.1 = { controller = DAN } # Torstenss -Captured by Hannibal Sehested
+1645.8.13 = { owner = SWE controller = SWE add_core = SWE } # The Peace of Brömsebro
+1657.11.25 = { controller = DAN } # Karl X Guvs First Danish -Captured by Bielke
+1658.2.26 = { controller = SWE } # The Peace of Roskilde
+1690.1.1 = { culture = swedish } # date estied
+1786.10.23 = { capital = "Ösd" }
