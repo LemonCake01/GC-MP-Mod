@@ -1,8 +1,0 @@
-
-
-
- # Martin Sberg
-discovered_by = nese
-discovered_by = no_group
-1542.1.1 = { discovered_by = POR }
-1739.1.1 = { discovered_by = RUS } # Martin Sberg

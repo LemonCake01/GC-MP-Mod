@@ -21,7 +21,7 @@ discovered_by = north_aican
 	add_core = ENG
 	is_city = yes
 	religion = protent
-	trade_goods = saltobacco
+	trade_goods = tobacco
 	culture = english 
 } #Fort Henry
 1707.5.12 = {

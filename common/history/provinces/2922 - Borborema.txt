@@ -21,6 +21,6 @@ native_hostiess = 6
 	is_city = yes
 	culture = portugese
 	religion = catholic
-	trade_goods = saltobacco
+	trade_goods = tobacco
 }
 1650.1.1 = { capital = "Cimbres" }

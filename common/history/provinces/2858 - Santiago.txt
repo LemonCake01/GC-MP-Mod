@@ -24,7 +24,7 @@ native_hostiess = 8
 	add_core = SPA
 	culture = castillian
 	religion = catholic
-	trade_goods = saltobacco
+	trade_goods = tobacco
 }
 1669.1.1 = { is_city = yes }
 1790.1.1 = { unrest = 6 } # Desire for edence

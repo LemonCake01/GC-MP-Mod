@@ -1,7 +1,8 @@
 #44 - Hamburg
 
-owner = HAM
-controller = HAM
+owner = HSA
+controller = HSA
+add_core = HSA
 add_core = HAM
 culture = lower_saxon
 religion = catholic

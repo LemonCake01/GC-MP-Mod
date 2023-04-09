@@ -22,7 +22,7 @@ native_hostiess = 1
 	owner = INC
 	controller = INC
 	add_core = INC
-	trade_goods = salt
+	trade_goods = t
 	religion = inti
 	is_city = yes
 }

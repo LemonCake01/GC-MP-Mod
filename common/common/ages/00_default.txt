@@ -61,15 +61,11 @@ age_of_discovery = {
 		}
 	
 		obj_humiliate_rival = {
-            custom_trigger_tooltip = {
-                tooltip = obj_humiliate_rival_tooltip
-                OR = {
-                    has_country_flag = humiliated_rival
-                    has_country_flag = MJL_humiliated_rival
-                }
-
-            }
-        }
+			custom_trigger_tooltip = {
+				tooltip = obj_humiliate_rival_tooltip
+				has_country_flag = humiliated_rival
+			}
+		}
 	}		
 	
 
@@ -128,7 +124,7 @@ age_of_discovery = {
 		}
 		ab_colony_boost_development = {
 			modifier = {
-				global_colonial_growth = 100
+				development_cost = -0.1
 			}
 			ai_will_do = {
 				factor = 0

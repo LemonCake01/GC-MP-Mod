@@ -1,4 +1,0 @@
-#4135 - e Albert
-
-
-discovered_by = central_african

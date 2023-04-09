@@ -21,7 +21,7 @@ discovered_by = north_aican
 	controller = 
 	add_core = 
 	is_city = yes
-	trade_goods = saltobacco
+	trade_goods = tobacco
 } 
 1809.1.1 = {
 	owner = USA

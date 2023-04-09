@@ -3,6 +3,7 @@
 owner = WOL
 controller = WOL
 add_core = WOL
+add_core = BRA
 culture = pommeranian
 religion = catholic
 hre = yes

@@ -27,5 +27,5 @@ discovered_by = ottoman
 	add_core = 
 	religion = sunni
 	is_city = yes
-	trade_goods = saltropical_wood
+	trade_goods = tropical_wood
 } # nate Sulate exded

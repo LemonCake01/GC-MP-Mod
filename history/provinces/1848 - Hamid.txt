@@ -1,7 +1,7 @@
 #1848 - Hamid
 
-owner = KAR
-controller = KAR
+owner = TUR
+controller = TUR
 culture = turkish
 religion = sunni
 capital = "Burdur"
@@ -11,15 +11,13 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KAR
+add_core = TUR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = no_group
 
-
-1420.1.1 = { owner = TUR add_core = TUR controller = TUR } # Incorporated into the oman Empire
 1481.6.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Ci , Bayezid & Jem
 1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Res
 1509.1.1 = { revolt = { type = revolunary_rebels size = 0 } controller = REB } # Ci 

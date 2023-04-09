@@ -20,8 +20,6 @@ persia_ascended = {
 }
 
 sub-saharan-empire = { #Skånemarknaden - Biggest Herring Market in Europe
-	local_friendly_movement_speed = 2
-	local_hostile_movement_speed = 2
 	trade_goods_size = 1
 	land_forcelimit = 10
 	local_development_cost = -0.2

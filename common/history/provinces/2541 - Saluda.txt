@@ -24,7 +24,7 @@ discovered_by = north_aican
 	add_core = GBR
 	is_city = yes
 	culture = english
-	trade_goods = saltobacco
+	trade_goods = tobacco
 	religion = protent 
 } #Fort Moore on the Sn river.
 1764.7.1 = {

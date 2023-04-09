@@ -1,4 +1,0 @@
-#1649 - e Victa
-
-
-discovered_by = central_african

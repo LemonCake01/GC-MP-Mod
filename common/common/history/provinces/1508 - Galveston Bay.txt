@@ -1,8 +1,0 @@
-
-
-
-
-discovered_by = north_aican
-discovered_by = mesoaican
-1519.1.1 = { discovered_by = SPA }
-

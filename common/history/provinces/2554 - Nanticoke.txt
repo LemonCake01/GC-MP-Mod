@@ -24,7 +24,7 @@ discovered_by = north_aican
 	controller = ENG
 	is_city = yes
 	culture = english
-	trade_goods = saltobacco
+	trade_goods = tobacco
 	religion = protent
 } # Cambridge, earliest settlement in easn Maryland
 1707.5.12 = {

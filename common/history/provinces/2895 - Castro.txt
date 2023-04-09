@@ -24,6 +24,6 @@ native_hostiess = 5
 	add_core = POR
 	culture = portugese
 	religion = catholic
-	trade_goods = saltobacco
+	trade_goods = tobacco
 	is_city = yes
 }

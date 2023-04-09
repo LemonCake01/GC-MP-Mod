@@ -18,7 +18,7 @@ discovered_by = no_group
 
 add_permanent_province_modifier = {
 	name = jingdezhen_kilns
-	duration = -1
+	duran = -1
 }
 
 1595.1.1 = { discovered_by = SPA }

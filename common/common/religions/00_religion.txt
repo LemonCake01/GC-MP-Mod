@@ -2544,11 +2544,11 @@ zoroastrian_group = {
 			fire_damage_received = -0.10
 		}
 		country_as_secondary = {
-			fire_damage_received = -0.10
+			merchants = 1
 			tolerance_own = 1
 		}
 
-		holy_sites = { 421 419 2223 410 2235 }
+		holy_sites = { 421 4430 2223 441 2235 }
 
 		blessings = {
 			blessing_yasna

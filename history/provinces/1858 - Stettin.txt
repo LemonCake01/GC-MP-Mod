@@ -1,8 +1,8 @@
 #1858 - Sten
 
-owner = STE
-controller = STE
-add_core = STE
+owner = BRA
+controller = BRA
+add_core = BRA
 culture = pommeranian
 religion = catholic
 trade_goods = nl_supplies

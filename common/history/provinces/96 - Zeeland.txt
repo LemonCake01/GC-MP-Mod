@@ -3,7 +3,6 @@
 owner = HOL
 controller = HOL
 add_core = HOL
-add_core = BUR
 is_city = yes
 capital = "Middelburg"
 culture = dutch
@@ -11,7 +10,7 @@ religion = catholic
 hre = yes
 base_tax = 5
 base_production = 5
-trade_goods = salt
+trade_goods = t
 base_manpower = 1
 discovered_by = eastern
 discovered_by = western

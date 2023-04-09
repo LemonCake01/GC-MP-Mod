@@ -1,7 +1,7 @@
 # 197 Roussillon - Principal cities: Perpignan
 
-owner = CAT
-controller = CAT
+owner = ARA
+controller = ARA
 add_core = CAT
 capital = "Perpignan"
 is_city = yes
@@ -23,6 +23,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1412.6.29 = { revolt = { type = pretender_rebels size = 1 leader = "Jaume d'Urgell"} controller = REB } # Jaime de Urgell Uprising
+1413.1.1 = { revolt = {} controller = ARA }
 1462.1.1 = { owner = FRA controller = FRA } # Treaty of Bayonne: Aragon sells Roussillon to France
 1493.1.19 = { owner = ARA controller = ARA } # Treaty of Barcelona: rles VIII restores Roussillon to Aragon
 1516.1.23 = {

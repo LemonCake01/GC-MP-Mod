@@ -1403,6 +1403,11 @@ country_decisions = {
 						province_id = 431 #Mogostan
 						province_id = 432 #Kerman
 						province_id = 433 #Yazd
+						province_id = 450 #Balkh
+						province_id = 504 #Thatta
+						province_id = 517 #Sanjan
+						province_id = 529 #Mumbai
+						province_id = 2210 #Kermanshah
 					}
 					OR = {
 						NOT = { owned_by = root }
@@ -1421,6 +1426,11 @@ country_decisions = {
 			owns_core_province = 431 #Mogostan
 			owns_core_province = 432 #Kerman
 			owns_core_province = 433 #Yazd
+			owns_core_province = 450 #Balkh
+			owns_core_province = 504 #Thatta
+			owns_core_province = 517 #Sanjan
+			owns_core_province = 529 #Mumbai
+			owns_core_province = 2210 #Kermanshah
 			all_owned_province = {
 				religion = zoroastrian
 			}
@@ -1438,8 +1448,12 @@ country_decisions = {
 					owns_core_province = 428 #Teheran
 					owns_core_province = 429 #Isfahan
 					owns_core_province = 432 #Kerman
-					owns_core_province = 431 #Mogostan
 					owns_core_province = 433 #Yazd
+					owns_core_province = 450 #Balkh
+					owns_core_province = 504 #Thatta
+					owns_core_province = 517 #Sanjan
+					owns_core_province = 529 #Mumbai
+					owns_core_province = 2210 #Kermanshah
 				}
 				factor = 0
 			}

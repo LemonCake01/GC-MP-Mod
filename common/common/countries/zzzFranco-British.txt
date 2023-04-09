@@ -6,7 +6,7 @@ color = { 149 45 102 }
 
 revolutionary_colors = { 2  0  10 }
 
-preferred_religion = anglican
+preferred_religion = protestant
 
 historical_idea_groups = {
 	administrative_ideas

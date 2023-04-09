@@ -22,5 +22,5 @@ discovered_by = nese
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	trade_goods = saltropical_wood
+	trade_goods = tropical_wood
 }

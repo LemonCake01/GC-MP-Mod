@@ -25,6 +25,6 @@ discovered_by = no_group
 	add_core = RUS
 	religion = orthodox
 	culture = russian
-	trade_goods = salt
+	trade_goods = t
 	is_city = yes 
 } # Berezov founded

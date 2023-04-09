@@ -25,7 +25,7 @@ native_hostiess = 5
 	is_city = yes
 	culture = portugese
 	religion = catholic
-	trade_goods = saltobacco
+	trade_goods = tobacco
 } # Portugese colony
 1724.1.1 = {
 	owner = SPA

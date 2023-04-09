@@ -1,3 +1,0 @@
-discovered_by = ian
-1498.1.1 = { discovered_by = POR }
-1521.1.1 = { discovered_by = SPA }

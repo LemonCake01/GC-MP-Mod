@@ -14,8 +14,8 @@ is_city = yes
 fort_15th = yes
 add_core = MOR
 add_core = GRA
-
-
+add_core = CAS
+add_core = POR
 
 discovered_by = western
 discovered_by = muslim
@@ -24,7 +24,6 @@ discovered_by = eastern
 
 
 #1415.8.21 = { controller = POR add_core = POR }
-1415.9.1 = { controller = POR add_core = POR owner = POR capital = Ceuta }
 1500.1.1 = { religion = catholic }
 1640.1.1 = {
 	owner = SPA

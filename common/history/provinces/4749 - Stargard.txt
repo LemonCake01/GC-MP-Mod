@@ -3,7 +3,6 @@
 owner = MKL
 controller = MKL
 add_core = MKL
-add_core = HSA
 culture = pommeranian
 religion = catholic
 hre = yes

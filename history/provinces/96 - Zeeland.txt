@@ -3,6 +3,7 @@
 owner = HOL
 controller = HOL
 add_core = HOL
+add_core = BUR
 is_city = yes
 capital = "Middelburg"
 culture = dutch

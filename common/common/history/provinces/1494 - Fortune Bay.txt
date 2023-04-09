@@ -1,5 +1,0 @@
-discovered_by = north_aican
-
-1497.6.24 = { discovered_by = ENG } # John bot
-1502.1.1 = { discovered_by = POR } # Gaspar Corte-Real
-1534.1.1 = { discovered_by = FRA } # Jacq Cartier

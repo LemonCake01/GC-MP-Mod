@@ -3,7 +3,7 @@
 culture = hn
 religion = em
 capital = "hn"
-trade_goods = saltobacco
+trade_goods = tobacco
 hre = no
 base_tax = 2
 base_production = 2

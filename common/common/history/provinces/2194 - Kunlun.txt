@@ -1,9 +1,0 @@
-# 2194 - Kunlun
-
-
-
-
-discovered_by = nese
-discovered_by = no_group
-discovered_by = ian
-

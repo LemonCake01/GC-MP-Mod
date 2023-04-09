@@ -1,6 +1,15 @@
 version="1.34.5"
 tags={
+	"Alternative History"
+	"Balance"
+	"Expansion"
 	"Fixes"
+	"Gameplay"
+	"Military"
+	"Missions And Decisions"
+	"National Ideas"
 }
-name="GC Dev Version"
+name="Grand Campaign MP Rebalance"
+picture="thumbnail.png"
 supported_version="1.34.5"
+remote_file_id="2942306211"

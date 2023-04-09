@@ -1,7 +1,0 @@
-discovered_by = nese
-discovered_by = no_group
-
-
-
-
-1595.1.1 = { discovered_by = SPA }

@@ -1,4 +1,0 @@
-#Mounns spling Noy from Sweden.
-
-discovered_by = eastern
-discovered_by = western

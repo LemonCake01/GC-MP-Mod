@@ -26,6 +26,6 @@ discovered_by = andean
 	is_city = yes
 	religion = catholic
 	culture = castillian
-	trade_goods = saltropical_wood
+	trade_goods = tropical_wood
 }
 1809.7.16 = { revolt = { type = nanalist_rebels size = 0 } controller = REB } # Bolivian  of edence

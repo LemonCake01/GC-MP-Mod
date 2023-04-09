@@ -11,7 +11,7 @@ hre = no
 is_city = yes
 base_tax = 1 
 base_production = 1
-trade_goods = salt
+trade_goods = t
 base_manpower = 1
 
 

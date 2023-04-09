@@ -3,6 +3,7 @@
 owner = DTT
 controller = DTT
 add_core = DTT
+add_core = HSA
 culture = lower_saxon
 religion = catholic
 hre = yes

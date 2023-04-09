@@ -24,7 +24,7 @@ discovered_by = north_aican
 	controller = ENG 
 	add_core = ENG
 	culture = english 
-	trade_goods = saltobacco
+	trade_goods = tobacco
 	is_city = yes
 	religion = protent 
 } #Settlement of the Northern Neck af second Anglo-hn 

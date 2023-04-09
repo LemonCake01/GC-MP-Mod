@@ -1,7 +1,7 @@
 #327 - Adana
 
-owner = DUL
-controller = DUL
+owner = RAM
+controller = RAM
 culture = turkish
 religion = sunni
 capital = "Adana"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 is_city = yes
-add_core = DUL
+add_core = RAM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

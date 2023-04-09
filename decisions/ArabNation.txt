@@ -1,0 +1,428 @@
+country_decisions = {
+	
+	slavic_union = {
+		major = yes
+		potential = { 
+			NOT = { has_country_flag = formed_su_flag }
+			NOT = { exists = SUC }
+			OR = {
+				tag = HUN
+				tag = POL
+				tag = PLC
+				tag = TUR
+				tag = MOS
+				tag = RUS
+				tag = UKR
+				tag = SWE
+				tag = SCA
+				tag = BRA
+				tag = PRU
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 33			#Alexandria
+				province_id = 1955			#Cairo
+				province_id = 2444			#Aleppo
+				province_id = 1082			#Jerusalem
+				province_id = 306
+				province_id = 303
+				province_id = 284
+				province_id = 286
+				province_id = 464
+				province_id = 280
+				province_id = 295
+				province_id = 293
+				province_id = 276
+				province_id = 272
+				province_id = 2961
+				province_id = 262
+				province_id = 257
+				province_id = 43
+				province_id = 41
+				province_id = 38
+				province_id = 254
+				province_id = 264
+				province_id = 263
+				province_id = 266
+				province_id = 265
+				province_id = 153
+				province_id = 131
+				province_id = 158
+				province_id = 140
+				province_id = 137
+				province_id = 161
+				province_id = 1756
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			adm_tech = 10
+			owns_core_province = 33			#Alexandria
+			owns_core_province = 1955			#Cairo
+			owns_core_province = 2444			#Aleppo
+			owns_core_province = 1082			#Jerusalem
+			owns_core_province = 306
+			owns_core_province = 303
+			owns_core_province = 284
+			owns_core_province = 286
+			owns_core_province = 464
+			owns_core_province = 280
+			owns_core_province = 295
+			owns_core_province = 293
+			owns_core_province = 276
+			owns_core_province = 272
+			owns_core_province = 2961
+			owns_core_province = 262
+			owns_core_province = 257
+			owns_core_province = 43
+			owns_core_province = 41
+			owns_core_province = 38
+			owns_core_province = 254
+			owns_core_province = 264
+			owns_core_province = 263
+			owns_core_province = 266
+			owns_core_province = 265
+			owns_core_province = 153
+			owns_core_province = 131
+			owns_core_province = 158
+			owns_core_province = 140
+			owns_core_province = 137
+			owns_core_province = 161
+			owns_core_province = 1756
+		}
+		effect = {
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 14600
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_prestige = 100
+			set_country_flag = formed_su_flag
+			change_tag = SUC
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	franco_british_union = {
+		major = yes
+		potential = { 
+			NOT = { has_country_flag = formed_fbu_flag }
+			NOT = { exists = SUB }
+			OR = {
+				tag = BUR
+				tag = LOT
+				tag = ENG
+				tag = GBR
+				tag = NED
+				tag = FRA
+				tag = HSA
+				tag = KOL
+				tag = WES
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 248			#Alexandria
+				province_id = 373			#Cairo
+				province_id = 4378			#Aleppo
+				province_id = 241			#Jerusalem
+				province_id = 245
+				province_id = 236
+				province_id = 235
+				province_id = 87
+				province_id = 168
+				province_id = 170
+				province_id = 172
+				province_id = 173
+				province_id = 197
+				province_id = 202
+				province_id = 4696
+				province_id = 205
+				province_id = 183
+				province_id = 192
+				province_id = 193
+				province_id = 188
+				province_id = 93
+				province_id = 90
+				province_id = 94
+				province_id = 1744
+				province_id = 99
+				province_id = 4383
+				province_id = 97
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			adm_tech = 10
+			owns_core_province = 248			#Alexandria
+			owns_core_province = 373			#Cairo
+			owns_core_province = 4378			#Aleppo
+			owns_core_province = 241			#Jerusalem
+			owns_core_province = 245
+			owns_core_province = 236
+			owns_core_province = 235
+			owns_core_province = 87
+			owns_core_province = 168
+			owns_core_province = 170
+			owns_core_province = 172
+			owns_core_province = 173
+			owns_core_province = 197
+			owns_core_province = 202
+			owns_core_province = 4696
+			owns_core_province = 205
+			owns_core_province = 183
+			owns_core_province = 192
+			owns_core_province = 193
+			owns_core_province = 188
+			owns_core_province = 93
+			owns_core_province = 90
+			owns_core_province = 94
+			owns_core_province = 1744
+			owns_core_province = 99
+			owns_core_province = 4383
+			owns_core_province = 97
+		}
+		effect = {
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 14600
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_prestige = 100
+			set_country_flag = formed_fbu_flag
+			change_tag = SUB
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	africa_superpower = {
+		major = yes
+		potential = { 
+			NOT = { has_country_flag = formed_africa_flag }
+			NOT = { exists = SUA }
+			OR = {
+				tag = MOR
+				tag = ADU
+				tag = MAM
+				tag = ARB
+				tag = TUR
+				tag = RUM
+				tag = ITA
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 358			#Alexandria
+				province_id = 361			#Cairo
+				province_id = 377			#Aleppo
+				province_id = 379			#Jerusalem
+				province_id = 2772
+				province_id = 1224
+				province_id = 1215
+				province_id = 4280
+				province_id = 2932
+				province_id = 2257
+				province_id = 1132
+				province_id = 346
+				province_id = 344
+				province_id = 343
+				province_id = 341
+				province_id = 347
+				province_id = 2456
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			adm_tech = 10
+			owns_core_province = 358			#Alexandria
+			owns_core_province = 361			#Cairo
+			owns_core_province = 377			#Aleppo
+			owns_core_province = 379			#Jerusalem
+			owns_core_province = 2772
+			owns_core_province = 1224
+			owns_core_province = 1215
+			owns_core_province = 4280
+			owns_core_province = 2932
+			owns_core_province = 2257
+			owns_core_province = 1132
+			owns_core_province = 346
+			owns_core_province = 344
+			owns_core_province = 343
+			owns_core_province = 341
+			owns_core_province = 347
+			owns_core_province = 2456
+		}
+		effect = {
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 14600
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			add_prestige = 100
+			set_country_flag = formed_africa_flag
+			change_tag = SUA
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	arab_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_arabia_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = ARB }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			culture_group = turko_semitic #Arabic
+			NOT = { primary_culture = turkish }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 358			#Alexandria
+				province_id = 361			#Cairo
+				province_id = 377			#Aleppo
+				province_id = 379			#Jerusalem
+				province_id = 382			#Damascus
+				province_id = 384			#Medina
+				province_id = 385			#Mecca
+				province_id = 388			#Aden
+				province_id = 390			#Sanaa
+				province_id = 392			#Al-Arid
+				province_id = 394			#Qatif
+				province_id = 400			#Muscat
+				province_id = 403			#Nizwa
+				province_id = 410			#Baghdad
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			adm_tech = 10
+			owns_core_province = 358			#Alexandria
+			owns_core_province = 361			#Cairo
+			owns_core_province = 377			#Aleppo
+			owns_core_province = 379			#Jerusalem
+			owns_core_province = 382			#Damascus
+			owns_core_province = 384			#Medina
+			owns_core_province = 385			#Mecca
+			owns_core_province = 388			#Aden
+			owns_core_province = 390			#Sanaa
+			owns_core_province = 392			#Al-Arid
+			owns_core_province = 394			#Qatif
+			owns_core_province = 400			#Muscat
+			owns_core_province = 403			#Nizwa
+			owns_core_province = 410			#Baghdad
+		}
+		effect = {
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			mashriq_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ARB
+			}
+			egypt_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { area = lower_nubia_area }
+				}
+				add_permanent_claim = ARB
+			}
+			arabia_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = ARB
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = formed_arabia_flag
+			change_tag = ARB
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

@@ -19,7 +19,7 @@ native_hostiess = 3
 	controller = POR
 	add_core = POR
 	is_city = yes
-	trade_goods = saltropical_wood
+	trade_goods = tropical_wood
 	culture = portugese
 	religion = catholic
 }

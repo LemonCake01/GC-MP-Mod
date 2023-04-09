@@ -286,60 +286,8 @@ gc_morocco_2 = {
 		
 		effect = {
 			add_country_modifier = {
-				name = "mor__guard"
+				name = "mor_great_guard"
 				duration = -1
-			}
-		}
-	}
-	gc_mor_kanem = {
-		icon = mission_invade_kanem
-		required_missions = { gc_mor_songhai }
-		
-		provinces_to_highlight = {
-			OR = {
-				area = azbin_area
-				area = zazzau_area
-				area = katsina_area
-				area = hausa_area
-				area = bornu_area
-				area = kanem_area
-			}
-			NOT = {
-				country_or_non_sovereign_subject_holds = ROOT
-			}
-		}
-		
-		trigger = {
-			azbin_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT	
-			}
-			zazzau_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT	
-			}
-			katsina_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT	
-			}
-			hausa_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT	
-			}
-			bornu_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT	
-			}
-			kanem_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT	
-			}
-		}
-		
-		effect = {
-			add_country_modifier = {
-				name = "mor_conquest_of_kanem"
-				duration = 7300
 			}
 		}
 	}
@@ -771,7 +719,7 @@ gc_morocco_4 = {
 		effect = {
 			add_country_modifier = {
 				name = "mor_tunis_conquest"
-				duration = 7300
+				duration = -1
 			}
 		}
 	}
@@ -824,7 +772,8 @@ gc_morocco_5 = {
 	gc_mor_reclaim_andalucia = {
 		icon = mission_reclaim_andalucia
 		required_missions = { gc_mor_protect_granada }
-		
+		position = 4
+
 		provinces_to_highlight = {
 			OR = {
 				area = lower_andalucia_area
@@ -854,7 +803,7 @@ gc_morocco_5 = {
 		effect = {
 			add_country_modifier = {
 				name = "mor_andalucia"
-				duration = 7300
+				duration = -1
 			}
 		}
 	}

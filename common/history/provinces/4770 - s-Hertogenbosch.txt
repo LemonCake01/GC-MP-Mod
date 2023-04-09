@@ -3,7 +3,6 @@
 owner = BRB
 controller = BRB
 add_core = BRB
-add_core = BUR
 is_city = yes
 capital = "'s-Herenbosch"
 culture = dutch

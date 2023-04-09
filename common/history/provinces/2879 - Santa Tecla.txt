@@ -19,7 +19,7 @@ native_hostiess = 5
 	controller = 
 	add_core = 
 	is_city = yes
-	trade_goods = saltobacco
+	trade_goods = tobacco
 	religion = catholic
 }
 1756.2.1 = {

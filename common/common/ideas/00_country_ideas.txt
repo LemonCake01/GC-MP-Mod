@@ -7,20 +7,14 @@
 SUA_ideas = {
 	start = {
 		discipline = 0.05
-		war_exhaustion = -0.2
 	}
 
 	bonus = {
-		all_power_cost = -0.1
-		possible_policy = 1
+		free_leader_pool = 5
 	}
 	
 	trigger = {
-		OR = {
-				tag = SUA
-				tag = SUB
-				tag = SUC
-			}
+		tag = SUA
 	}
 	free = yes		#will be added at load.
 	
@@ -55,6 +49,7 @@ SUA_ideas = {
 		development_cost = -0.2
 	}
 }
+
 
 norse_ideas = {
 	start = {
@@ -5794,8 +5789,8 @@ MPC_ideas = {
 
 INC_ideas = {
 	start = {
-		idea_cost = 1
-		technology_cost = 0.5
+		idea_cost = -0.1
+		land_forcelimit_modifier = 0.2
 	}
 	bonus = {
 		free_leader_pool = 1

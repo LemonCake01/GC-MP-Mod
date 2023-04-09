@@ -3,7 +3,6 @@
 owner = SHL
 controller = SHL
 add_core = SHL
-add_core = HSA
 culture = lower_saxon
 religion = catholic
 hre = yes

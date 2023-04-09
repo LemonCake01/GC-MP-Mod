@@ -22,3 +22,21 @@ master_of_africa = {
 	trade_efficiency = 0.2
 	land_forcelimit_modifier = 0.2
 }
+superpower_assended = {
+	potential = {
+		OR = {
+				tag = SUA
+				tag = SUB
+				tag = SUC
+			}
+	}
+
+	trigger = {
+		NOT = { num_of_allies = 1 }
+		total_development = 2000
+	}
+	discipline = 0.05
+	manpower_recovery_speed = 0.2
+	global_manpower_modifier = 0.2
+	free_policy = 1
+}

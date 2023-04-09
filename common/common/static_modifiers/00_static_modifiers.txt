@@ -442,7 +442,7 @@ devastation = {
 }
 
 prosperity = {
-	local_manpower_modifier = 0.25
+	local_development_cost = -0.1
 	trade_goods_size_modifier = 0.25
 	local_autonomy = -0.05
 }
@@ -550,7 +550,7 @@ scorched_earth = {
 ##########################################################################
 
 base_values = {
-	max_absolutism = 200
+	max_absolutism = 65
 	merchants = 2							#Start with 2 merchants
 	diplomats = 2							#Start with 2 diplomats..
 	missionaries = 1						#1 missionary
@@ -600,7 +600,7 @@ war_taxes = {
 }
 
 stability = {
-	global_trade_power = 0.1			#1% chance each step.
+	global_trade_power = 0.01			#1% chance each step.
 	global_spy_defence = 0.05				#-15 to +15% modifier
 }
 
@@ -687,17 +687,17 @@ inflation = {
 }
 
 bankruptcy = {
-	interest = 10
-	land_morale = -0.75
-	naval_morale = -0.75
-	reinforce_speed = -0.5					#Slower reinforce
+	interest = 5
+	land_morale = -0.5
+	naval_morale = -0.5
+	reinforce_speed = -0.25					#Slower reinforce
 	bureaucrats_influence = 0.25
 	mr_guilds_influence = 0.25
 	manpower_recovery_speed = -1.0
 	sailors_recovery_speed = -1.0
-	advisor_cost = 1
+	advisor_cost = 0.5
 	monthly_fervor_increase = -1
-	global_autonomy = 0.2
+	global_autonomy = 0.05
 	global_institution_spread = -0.50
 	monthly_militarized_society = -0.5
 	yearly_absolutism = -2.0
@@ -1865,9 +1865,9 @@ over_governing_capacity_modifier = {
 	stability_cost_modifier = 1.0
 	ae_impact = 0.5
 	improve_relation_modifier = -0.5
-	advisor_cost = 3.0
+	advisor_cost = 1.0
 	monthly_militarized_society = -1.0
-	development_cost = 1
+	administrative_efficiency = -0.5
 }
 
 

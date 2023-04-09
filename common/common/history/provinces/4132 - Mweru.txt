@@ -1,4 +1,0 @@
-#4132 - e Mweru
-
-
-discovered_by = central_african
